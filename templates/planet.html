@@ -1,0 +1,32 @@
+{% extends "index.html" %}
+
+{% block header %}
+<!-- Page Header -->
+<header class="masthead" style="background-image: url('{{ get_url(path="/img/contact-bg.jpg")}}')">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-10 mx-auto">
+        <div class="page-heading">
+          <h1>Planet Wind Wanderer</h1>
+          <span class="subheading">365 Tage im Jahr die neusten Blogbeiträge aus der Welt der Langfahrer.
+
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+{% endblock header %}
+
+{% block content %}
+
+<!-- Main Content -->
+<div class="container articles">
+  <div class="row">
+    <div class="col-lg-12 col-md-10 mx-auto">
+      {% include "articles.html" %}
+    </div>
+  </div>
+</div>
+{% endblock content %}

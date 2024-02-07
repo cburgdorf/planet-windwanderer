@@ -1,4 +1,4 @@
 +++
-paginate_by = 5
-sort_by = "date"
+title = "Planet Wind Wanderer | 365 Tage auf dem Wasser"
+template = "planet.html"
 +++
