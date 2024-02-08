@@ -2,7 +2,7 @@
 
 # The following script maintains two branches to deploy the site:
 # First, we branch off to a "deploy" branch where we can savely add the "public" dir
-# Next, we create a fresh "master" branch with only the contents of the "public" dir
+# Next, we create a fresh "gh-pages" branch with only the contents of the "public" dir
 
 if output=$(git status --porcelain) && [ -z "$output" ]; then
   # Working directory clean
@@ -30,13 +30,13 @@ if output=$(git status --porcelain) && [ -z "$output" ]; then
   git commit -m "$msg"
 
   # Remove the latest deploy fragment
-  git branch -D master
+  git branch -D gh-pages
 
-  # Create a new master branch with the commit state of /public
-  git subtree split --prefix=public -b master
+  # Create a new gh-pages branch with the commit state of /public
+  git subtree split --prefix=public -b gh-pages
 
   # Force push
-  git push -f origin master
+  git push -f origin gh-pages
 
   # Change back to the branch where we came from
   git checkout -
