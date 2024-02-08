@@ -49,4 +49,18 @@
   li {
     margin-bottom: 50px;
   }
+
+  .item-header {
+    display: flex; /* Verwendet Flexbox für das Layout */
+    width: 100%; /* Der Container nimmt die volle Breite des Elternelements ein */
+  }
+  .item-header-left-box {
+    flex-grow: 1; /* Lässt die linke Box den verbleibenden Raum einnehmen */
+  }
+  .item-header-right-box {
+    width: 100px; /* Breite der rechten Box */
+    height: 100px; /* Höhe der rechten Box */
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
 }
