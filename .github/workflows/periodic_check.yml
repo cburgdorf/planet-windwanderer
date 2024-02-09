@@ -8,13 +8,32 @@ env:
   CARGO_TERM_COLOR: always
 
 jobs:
-  test:
-    # Build & Test runs on all platforms
+  refresh:
+    # Check for new articles and commit and deploy if needed
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
-      - name: Install system dependencies
+        with:
+          submodules: 'true'
+      - name: Perform update
         run: |
-          echo foo
           ./planet-windwanderer
+      - name: Install Zola
+        uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.15.3
+      - name: built site
+        run: zola build
+      - name: setup git config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "bot@github.com"
+      - name: commit
+        run: |
+          git add templates/articles.html
+          git add planet.lock
+          git commit -m "Add new articles"
+          git push origin master
+      - name: deploy
+        run: |
+          ./deploy.sh
