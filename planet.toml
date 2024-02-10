@@ -1,12 +1,32 @@
 max_entries_per_blog = 3
 report_file = "./templates/articles.html"
+report_template = '''
+<ul>
+ {{#each entries}}
+  <li>
+    <div>
+      <div class="item-header">
+        <div class="item-header-left-box">
+          <a href="{{this.post.url}}"><h1>{{this.post.title}}</h1></a>
+          <span class="item-date">am {{date this.post.date}}</span>
+        </div>
+        <div class="item-header-right-box" style="background-image: url({{this.origin.logo}});"></div>
+      </div>
+      <p>{{this.post.description}}</p>
+      <a class="font-weight-bold" href="{{this.post.url}}">Im Blog von <span style="text-decoration: underline;">{{this.origin.name}}</span> weiterlesen »</a>
+    </div>
+  </li>
+  {{/each}}
+</ul>
+'''
+
 
 [sources]
 windwanderer = { title = "Wind Wanderer", logo="https://windwanderer.xyz/img/logo/windwanderer_logo.png", sitemap = "https://windwanderer.xyz/sitemap.xml" }
 zweiammeer = { title = "Zwei am Meer", logo="https://zweiammeer.com/wp-content/uploads/elementor/thumbs/Zwei-am-Meer-Logo-q0reqohzbv4yqgpmlssxcweuj26s5utogf19ue1bx6.jpg", sitemap = "https://zweiammeer.com/post-sitemap.xml" }
 ahoi = { title = "ahoi blog", logo="https://ahoi.blog/wp-content/uploads/2019/03/cropped-Header_blog_grau_30.01.jpg", sitemap = "https://ahoi.blog/post-sitemap.xml" }
 syjobber = {title = "SY Jobber", logo="https://image.jimcdn.com/app/cms/image/transf/dimension=161x10000:format=png/path/s784ec22c7f89a6c1/image/ia0537ab838a474d9/version/1677524072/image.png", sitemap = "https://www.sy-jobber.de/sitemap.xml", dateregex='''(\d{4}/\d{2}/\d{2})''' }
-syflora = {title = "SY Flora", logo="https://florasailing.files.wordpress.com/2018/10/280de4bf-9584-4cee-a091-2021f0c4e245.jpeg", sitemap = "https://syflora.blog/sitemap.xml" }
+syflora = {title = "SY Flora", logo="https://florasailing.files.wordpress.com/2018/10/280de4bf-9584-4cee-a091-2021f0c4e245.jpeg", sitemap = "https://syflora.blog/sitemap.xml", dateregex='''(\d{4}/\d{2}/\d{2})''' }
 blauwassersegeln = {title = "Blauwassersegeln", logo="https://blauwassersegeln.at/wp-content/uploads/2020/02/cropped-logo-scaled-1.gif", sitemap="https://blauwassersegeln.at/post-sitemap.xml"}
 hafenkino = {title = "Hafenkino", logo="https://hafenkino.blog/wp-content/uploads/2017/09/hafenkino_logo_dunkel.png", sitemap="https://hafenkino.blog/post-sitemap.xml" }
 elenaundben = {title ="elenaundben", logo="https://elenaundben.de/cdn/shop/files/20221116_Logo_elenaundben_neu_transparent2.png?v=1669032258&width=150", sitemap="https://elenaundben.de/sitemap_blogs_1.xml"}

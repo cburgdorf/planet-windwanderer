@@ -54,6 +54,10 @@
     display: flex; /* Verwendet Flexbox für das Layout */
     width: 100%; /* Der Container nimmt die volle Breite des Elternelements ein */
   }
+  .item-date {
+    font-size: smaller;
+    color: #777
+  }
   .item-header-left-box {
     flex-grow: 1; /* Lässt die linke Box den verbleibenden Raum einnehmen */
   }
