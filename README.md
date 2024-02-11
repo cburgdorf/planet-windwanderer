@@ -2,7 +2,7 @@
 
 ## Worum geht es bei dieser Seite?
 
-Innerhalb der deutschen Langfahrer Szene gibt es eine Vielzahl von spannenden Blogs mit interessanten Reiseberichten, nützlichen Tipps und technischen Informationen. Leider lassen sich viele dieser Blogs kaum über die traditionellen Suchmaschinen finden und sind oft nur denen bekannt, die dem oder der Blogger(in) irgendwo auf der Welt persönlich begegnet sind. Diese Seite aggregiert die neusten Artikel einer Vielzahl von Blogs aus der deutschen Segelszene und soll so dazu beitragen, die Sichtbarkeit der einzelnen BLogs zu erhöhen.
+Die deutsche Segelgemeinschaft bietet eine Fülle faszinierender Blogs, die von abenteuerlichen Reiseerzählungen bis hin zu praktischen Ratschlägen und technischen Einblicken reichen. Viele dieser wertvollen Ressourcen bleiben jedoch unter dem Radar traditioneller Suchmaschinen und sind meist nur denjenigen bekannt, die zufällig den Weg eines Bloggers gekreuzt haben. Diese Seite bündelt kontinuierlich aktuelle Beiträge aus einer breiten Palette dieser Segelblogs, um deren Präsenz im Web zu verstärken und sie einem breiteren Publikum zugänglich zu machen.
 
 ## Verfolgt diese Seite kommerzielle Interessen?
 
@@ -18,7 +18,7 @@ Trage einen fehlenden Blog entweder direkt in der `planet.toml` Datei ein oder s
 
 ## Müssen die Blogs gewisse Kriterien erfüllen um aufgenommen zu werden?
 
-Grundsätzlich sind alle Segelblogs ohne finanzielles Kerninteresse willkommen, wobei der Fokus auf Langfahrer Blogs liegt.
+Grundsätzlich sind alle deutschsprachigen Segelblogs willkommen, die nicht primär kommerziell betrieben werden. Der Fokus liegt hierbei auf Blogs  aus der Community der Langfahrer.
 
 ## Ist die Webseite Open Source?
 
