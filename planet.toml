@@ -32,3 +32,4 @@ hafenkino = {title = "Hafenkino", logo="https://hafenkino.blog/wp-content/upload
 elenaundben = {title ="elenaundben", logo="https://elenaundben.de/cdn/shop/files/20221116_Logo_elenaundben_neu_transparent2.png?v=1669032258&width=150", sitemap="https://elenaundben.de/sitemap_blogs_1.xml"}
 weltahoi = {title = "welt ahoi", logo="", sitemap="https://welt-ahoi.de/wp-sitemap-posts-post-1.xml", dateregex='''(\d{4}/\d{2}/\d{2})''' }
 bluehorizonsailing = { title = "bluehorizonsailing", logo="https://images.squarespace-cdn.com/content/v1/5d406bbb6a7863000143ff5c/1598983012629-HWVLBG9W1JB1PVBSRRX4/IMG_0069.png?format=150w", sitemap="https://www.bluehorizonsailing.de/sitemap.xml"}
+sailingnakiipu = { title = "sailingnakiipu", logo="https://sailing-nakiipu.com/wp-content/uploads/2022/02/Nakii-pu.png", sitemap = "https://sailing-nakiipu.com/post-sitemap.xml" }
