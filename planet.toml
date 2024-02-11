@@ -35,5 +35,6 @@ bluehorizonsailing = { title = "bluehorizonsailing", logo="https://images.square
 sailingnakiipu = { title = "sailingnakiipu", logo="https://sailing-nakiipu.com/wp-content/uploads/2022/02/Nakii-pu.png", sitemap = "https://sailing-nakiipu.com/post-sitemap.xml" }
 sypicaroon = { title ="SY Picaroon", sitemap="https://www.sy-picaroon.de/sitemap.xml", logo="", dateregex='''(\d{4}/\d{2}/\d{2})'''}
 syslisand = { title ="SY Slisand", sitemap="https://slisand.blogspot.com/sitemap.xml", logo=""}
+sysilence = { title = "SY Silence", sitemap="https://sy-silence.de/sitemap-1.xml", logo=""}
 # TODO: Debug why this one isnt working
 # themaverics = { title ="The Maverics", sitemap="https://www.the-mavericks.de/wp-sitemap-posts-post-1.xml", logo=""}
