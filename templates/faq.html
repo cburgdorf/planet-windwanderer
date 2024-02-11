@@ -1,0 +1,43 @@
+{% extends "index.html" %}
+
+{% block header %}
+<!-- Page Header -->
+<header class="masthead" style="background-image: url('{{ get_url(path="/img/contact-bg.jpg")}}')">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="page-heading">
+          <h1>FAQ</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+{% endblock header %}
+
+{% block content %}
+<!-- Main Content -->
+<div class="container page-boat">
+  <div class="row">
+    <div class="col-lg-10 col-md-10 mx-auto">
+      <h2>Allgemeines</h2>
+      <p class="font-weight-bold">Worum geht es bei dieser Seite?</p>
+      <p>Innerhalb der deutschen Langfahrer Szene gibt es eine Vielzahl von spannenden Blogs mit interessanten Reiseberichten,
+        nützlichen Tipps und technischen Informationen. Leider lassen sich viele dieser Blogs kaum über die traditionellen Suchmaschinen
+        finden und sind oft nur denen bekannt, die dem oder der Blogger(in) irgendwo auf der Welt persönlich begegnet sind.
+
+        Diese Seite aggregiert die neusten Artikel einer Vielzahl von Blogs aus der deutschen Segelszene und soll so dazu beitragen,
+        die Sichtbarkeit der einzelnen BLogs zu erhöhen.
+      </p>
+      <p class="font-weight-bold">Verfolgt diese Seite kommerzielle Interessen?</p>
+      <p>Nein, dies ist eine Seite von Seglern für Segler, frei von jeglichen kommerziellen Interessen.</p>
+      <p class="font-weight-bold">Werden die Artikel manuell eingepflegt?</p>
+      <p>Nein, die Artikel der überwachten Blogs landen automatisch wenige Minuten nach deren Veröffentlichung auf dieser Seite.</p>
+      <p class="font-weight-bold">Wie kann ich einen fehlenden Blog eintragen?</p>
+      <p>Trage einen fehlenden Blog entweder direkt <a href="https://github.com/cburgdorf/planet-windwanderer/edit/master/planet.toml">hier</a>ein
+      oder schreibe eine E-Mail an christoph@windwanderer.xyz</p>
+    </div>
+  </div>
+</div>
+{% endblock content %}
