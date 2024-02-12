@@ -40,25 +40,19 @@ timestamp = 1696723200
 title = "Aus welchem Baumaterial soll meine ideale Blauwasseryacht gebaut sein?"
 url = "https://blauwassersegeln.at/aus-welchem-baumaterial-soll-meine-ideale-blauwasseryacht-gebaut-sein/"
 
-[bluehorizonsailing.13996346405903305970]
-description = """
-Ich wär gern wie die das Meer
-So tiefgründig, melancholisch
-Wie die Wellen so laut
-Könnte stundenlang zusehen und wünschte ich könnte das auch Mich so aufbauen, raushauen
-Sagen was ich will
-Nicht so leise nicht so still"""
-id = "13996346405903305970"
-timestamp = 1678492800
-title = "Ich wäre gerne wie das Meer — BLUE HORIZON"
-url = "https://www.bluehorizonsailing.de/blog/ichwaeregernewiedasmeer"
-
 [bluehorizonsailing.14130523162228008775]
 description = "Es sind Dinge geschehen, die vieles verändert haben, die uns verändert haben. Wir sind nicht mehr zu dritt oder zu viert unterwegs und das schon seit längerer Zeit. Von heute auf morgen gab es plötzlich andere Fragen in meinem kopf, als die worüber ich den nächsten Blogpost schreibe. Können wir das "
 id = "14130523162228008775"
 timestamp = 1676505600
 title = "Die Reise geht weiter - auch auf diesem Blog — BLUE HORIZON"
 url = "https://www.bluehorizonsailing.de/blog/weillckendazugehren"
+
+[bluehorizonsailing.16657504540341275771]
+description = ""
+id = "16657504540341275771"
+timestamp = 1707696000
+title = "Links — BLUE HORIZON"
+url = "https://www.bluehorizonsailing.de/links"
 
 [bluehorizonsailing.3719354135597637502]
 description = ""
