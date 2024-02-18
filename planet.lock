@@ -328,16 +328,16 @@ timestamp = 1704499200
 title = "Monatsrückblick: Dezember 2023 | Zwei am Meer"
 url = "https://zweiammeer.com/monatsrueckblick-dezember-2023/"
 
-[zweiammeer.16198555528408285510]
-description = "Wir sind seit ein paar Tagen wieder auf La Gomera. Wir erzählen dir, warum wir weiterfahren mussten, was wir im November alles verloren haben und zeigen dir mal wieder unsere monatlichen Ausgaben."
-id = "16198555528408285510"
-timestamp = 1704326400
-title = "Monatsrückblick: November 2023 | Zwei am Meer"
-url = "https://zweiammeer.com/monatsrueckblick-november-2023/"
-
 [zweiammeer.2279782254041759969]
 description = "Der Jänner war ganz anders, als wir es gewohnt sind. Wir haben die Hälfte des Monats in Häfen verbracht. Jetzt ist uns noch klarer als zuvor, dass wir einfach"
 id = "2279782254041759969"
 timestamp = 1707609600
 title = "Monatsrückblick: Jänner 2023 | Zwei am Meer"
 url = "https://zweiammeer.com/monatsrueckblick-jaenner-2023/"
+
+[zweiammeer.2979262152209851766]
+description = "Für alle, die auf der Suche nach spannenden Segelgeschichten sind, habe ich hier zwei Buchempfehlungen."
+id = "2979262152209851766"
+timestamp = 1708214400
+title = "Buchempfehlungen zum Thema Segeln | Zwei am Meer"
+url = "https://zweiammeer.com/buchempfehlung-segeln/"
