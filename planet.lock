@@ -321,13 +321,6 @@ timestamp = 1698451200
 title = "Wir besitzen kein Boot mehr | Wind Wanderer"
 url = "https://windwanderer.xyz/wir-besitzen-kein-boot-mehr/"
 
-[zweiammeer.11435585531540276037]
-description = "Behutsam lenkt uns der letzte Monat des Jahres Richtung 2024. Wir haben die Gelegenheit, eine weitere Insel auf unserer Route zu entdecken und lernen auch die weniger positiven Seiten der Abgeschiedenheit kennen. Vom Internetempfang über das Wasserholen bis zum Batterieladen werden wir hier mit Situationen konfrontiert, die wir so noch nicht erlebt haben."
-id = "11435585531540276037"
-timestamp = 1704499200
-title = "Monatsrückblick: Dezember 2023 | Zwei am Meer"
-url = "https://zweiammeer.com/monatsrueckblick-dezember-2023/"
-
 [zweiammeer.2279782254041759969]
 description = "Der Jänner war ganz anders, als wir es gewohnt sind. Wir haben die Hälfte des Monats in Häfen verbracht. Jetzt ist uns noch klarer als zuvor, dass wir einfach"
 id = "2279782254041759969"
@@ -341,3 +334,10 @@ id = "2979262152209851766"
 timestamp = 1708214400
 title = "Buchempfehlungen zum Thema Segeln | Zwei am Meer"
 url = "https://zweiammeer.com/buchempfehlung-segeln/"
+
+[zweiammeer.5859921937296443033]
+description = "Wir stellen dir die 3 günstigsten Internet-Anbieter mit Prepaid-Tarifen für mobiles Internet in Spanien und auf den Kanaren vor."
+id = "5859921937296443033"
+timestamp = 1708819200
+title = "Mobiles Internet in Spanien (und auf den Kanaren) | Zwei am Meer"
+url = "https://zweiammeer.com/mobiles-internet-in-spanien-und-auf-den-kanaren/"
