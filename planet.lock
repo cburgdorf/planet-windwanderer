@@ -300,13 +300,6 @@ timestamp = 1698105600
 title = "Wunderschönes La Palma"
 url = "https://welt-ahoi.de/2023/10/24/wunderschoenes-la-palma/"
 
-[windwanderer.10579857857934706566]
-description = "Nachdem wir Almerimar hinter uns gelassen haben, ist alles, was danach kommt, Neuland für uns. Der Abschied aus Almerimar fällt uns recht leicht, weil…"
-id = "10579857857934706566"
-timestamp = 1684627200
-title = "Tschüss Almerimar - Unterwegs in neuen Gefilden | Wind Wanderer"
-url = "https://windwanderer.xyz/almerimar-nach-ibiza/"
-
 [windwanderer.16909160602875580296]
 description = "Wir sitzen bei angenehmem Wind und Sonne im Cockpit und setzen von Ibiza aufs spanische Festland über, wie wir diese Zeilen schreiben. Doch bis hierhi…"
 id = "16909160602875580296"
@@ -320,6 +313,13 @@ id = "8074672839554196137"
 timestamp = 1698451200
 title = "Wir besitzen kein Boot mehr | Wind Wanderer"
 url = "https://windwanderer.xyz/wir-besitzen-kein-boot-mehr/"
+
+[windwanderer.9401096561509828045]
+description = "Als wir 2021 mit unseren Freunden in Tavira bei einer Pizza zusammensitzen und von unserem Plan ein Segelboot zu kaufen berichten, sagt uns William: &…"
+id = "9401096561509828045"
+timestamp = 1709683200
+title = "Der Weg zu unserer neuen Wanderer | Wind Wanderer"
+url = "https://windwanderer.xyz/der-weg-zu-unserer-neuen-wanderer/"
 
 [zweiammeer.12889894457800470740]
 description = "Der Jänner war ganz anders, als wir es gewohnt sind. Wir haben die Hälfte des Monats in Häfen verbracht. Jetzt ist uns noch klarer als zuvor, dass wir einfach"
