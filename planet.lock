@@ -168,19 +168,19 @@ timestamp = 1667779200
 title = "#4 Unser Boot… - Sailing Nakii Pu"
 url = "https://sailing-nakiipu.com/4-unser-boot/"
 
-[syflora.10936668986708488043]
-description = "Mit dem Boot zu reisen bedeutet langsam zu reisen. Über drei Wochen von Mexiko nach Französisch Polynesien, fast fünf Jahre von Korfu bis Gambier. Es heißt, einer der Vorteile dieses gemäßigten Tem…"
-id = "10936668986708488043"
-timestamp = 1710460800
-title = "Perle der Südsee"
-url = "https://syflora.blog/2024/03/15/perle-der-suedsee/"
-
 [syflora.17389490460043572469]
 description = "Eine der Besonderheiten in den Gambier ist ja, das sich fast alle Inseln des Archipels innerhalb eines einzigen Atolls befinden, trotzdem aber recht hohe Berge aufweisen. Zwei Spitzen ragen besonde…"
 id = "17389490460043572469"
 timestamp = 1710633600
 title = "Ganz oben in Mangareva"
 url = "https://syflora.blog/2024/03/17/ganz-oben-in-mangareva/"
+
+[syflora.199774309188679455]
+description = "Der Ankerplatz hier vor Rikitea ist ruhig. Wunderbar ruhig. Kaum eine Welle kräuselt das Wasser. Der Pazifik-Schwell bricht sich schon am Außenriff der Gambier-Inseln, was dann noch übrig bleibt ve…"
+id = "199774309188679455"
+timestamp = 1710979200
+title = "Das Kreuz des Südens"
+url = "https://syflora.blog/2024/03/21/das-kreuz-des-suedens/"
 
 [syflora.375660563708307156]
 description = "Vorab eine Entschuldigung an alle, die sich nicht als Kinder gebannt vor dem Fernseher von der “Augsburger Puppenkiste” verzaubern lassen haben: es tut mir ein bisschen leid für Euch. Ignoriert am …"
