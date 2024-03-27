@@ -26,19 +26,19 @@ timestamp = 1699488000
 title = "TO online Seminar: Sturmsegeln"
 url = "https://blauwassersegeln.at/online-seminar-sturmsegeln/"
 
-[blauwassersegeln.6018543912308575381]
-description = "Was tun, wenn du in einem Orkan bist, keinen Seeraum fürs Ablaufen und siehst keine Möglichkeit mehr, aktiv gegen den Sturmwind zu segeln, um dich freizuhalten? Dann kannst du nur eines versuchen: deine Yacht zu stoppen. Wir zeigen dir, was dazu nötig ist."
-id = "6018543912308575381"
-timestamp = 1696723200
-title = "Sturmsegeln Spezial - Teil 16: Die Notbremse - der Seeanker"
-url = "https://blauwassersegeln.at/sturmsegeln-spezial-teil-16-seeanker/"
-
 [blauwassersegeln.8380323879100919825]
 description = "Glasfaserverstärkter Kunststoff (GFK), Metall (Aluminium und Stahl), Holz, Sperrholz überzogen mit Fieberglas und Ferrozement sind seit langer Zeit übliche Baumaterialien für Yachten. Für welches Baumaterial einer Blauwasseryacht solltest du dich entscheiden?"
 id = "8380323879100919825"
 timestamp = 1696723200
 title = "Aus welchem Baumaterial soll meine ideale Blauwasseryacht gebaut sein?"
 url = "https://blauwassersegeln.at/aus-welchem-baumaterial-soll-meine-ideale-blauwasseryacht-gebaut-sein/"
+
+[blauwassersegeln.8407751694119218542]
+description = "In Zusammenarbeit mit dem größten deutschen Blauwassersegler-Verein Trans-Ozean unterstützen wir alle Los-Segler. Beim gemeinsamen Zoom-Abend drehte sich deshalb alles um den Proviant für Ozeansegler. Hier findest du alle Unterlagen zum Vortrag..."
+id = "8407751694119218542"
+timestamp = 1711497600
+title = "Unser TO-Seminar: Proviantieren für eine Ozeanüberquerung"
+url = "https://blauwassersegeln.at/proviantieren-fuer-ozeanueberquerung/"
 
 [bluehorizonsailing.1334339429087352928]
 description = ""
