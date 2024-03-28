@@ -126,13 +126,6 @@ timestamp = 1688083200
 title = "Grenada - neue Buchten und alte Bekanntschaften - AMELIJA"
 url = "https://sailing-amelija.de/grenada-neue-buchten-und-alte-bekanntschaften/"
 
-[sailingmabul.14487516944272240511]
-description = "Für mehr als vier Monate, von August bis Anfang Dezember 2023, ist Guatemala unsere Wahlheimat. Hier verbringen wir die Hurrikan Saison und hier machen wir unsere Mabul fit für die kommenden Segel Etappen. Es gibt viel zu tun, die Liste ist lang und hört nicht auf zu wachsen. Viele Projekte habe ich für Wochen und... Weiterlesen"
-id = "14487516944272240511"
-timestamp = 1707868800
-title = "Auf dem Trockenen - Teil 1 - Sailing Mabul"
-url = "https://www.sailingmabul.com/2024/02/14/segelboot-refit-guatemala/"
-
 [sailingmabul.16412539289060665197]
 description = "Wir segeln nach Providencia, einem kolumbianischer Außenposten vor der Küste Nicaraguas, und erkunden die Insel unter und über Wasser."
 id = "16412539289060665197"
@@ -146,6 +139,13 @@ id = "16661379049432210500"
 timestamp = 1711497600
 title = "Cruising Providencia - Sailing Mabul"
 url = "https://www.sailingmabul.com/en/2024/03/27/gallery-providencia/"
+
+[sailingmabul.673893472135650282]
+description = "In the first part of the sailboat refit in Guatemala, Mabul is tackled with a hammer, angle grinder and chisel."
+id = "673893472135650282"
+timestamp = 1707868800
+title = "Sailboat Refit Guatemala - Sailing Mabul"
+url = "https://www.sailingmabul.com/en/2024/02/14/sailboat-refit-guatemala/"
 
 [sailingnakiipu.16013365068778409301]
 description = "# sailing Begleitet die Abenteuer mit unserem Segelboot, Nakii Pu, auf dem Meer. Wir sind eine chaotische, fünf köpfige Familie."
