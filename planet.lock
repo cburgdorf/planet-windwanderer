@@ -133,19 +133,19 @@ timestamp = 1711843200
 title = "Segelboot Refit Guatemala II - Sailing Mabul"
 url = "https://www.sailingmabul.com/2024/03/31/auf-dem-trockenen-ii/"
 
-[sailingmabul.16412539289060665197]
-description = "Wir segeln nach Providencia, einem kolumbianischer Außenposten vor der Küste Nicaraguas, und erkunden die Insel unter und über Wasser."
-id = "16412539289060665197"
-timestamp = 1711497600
-title = "Segeln Providencia - Sailing Mabul"
-url = "https://www.sailingmabul.com/2024/03/27/galerie-providencia/"
+[sailingmabul.12209363165658586981]
+description = "In the second part of the sailboat refit in Guatemala, Mabul is slowly but surely being reassembled and shines in new splendour."
+id = "12209363165658586981"
+timestamp = 1711843200
+title = "Sailboat Refit Guatemala II - Sailing Mabul"
+url = "https://www.sailingmabul.com/en/2024/03/31/on-the-hard-ii/"
 
-[sailingmabul.16661379049432210500]
-description = "We are cruising Providencia, a Colombian outpost off the coast of Nicaragua, and explore the island under and above water."
-id = "16661379049432210500"
-timestamp = 1711497600
-title = "Cruising Providencia - Sailing Mabul"
-url = "https://www.sailingmabul.com/en/2024/03/27/gallery-providencia/"
+[sailingmabul.14088710632703674443]
+description = "Im ersten Teil des Segelboot Refit in Guatemala wird Mabul mit Hammer, Winkelschleifer und Stemmeisen in Angriff genommen."
+id = "14088710632703674443"
+timestamp = 1707868800
+title = "Segelboot Refit Guatemala I - Sailing Mabul"
+url = "https://www.sailingmabul.com/2024/02/14/auf-dem-trockenen-i/"
 
 [sailingnakiipu.16013365068778409301]
 description = "# sailing Begleitet die Abenteuer mit unserem Segelboot, Nakii Pu, auf dem Meer. Wir sind eine chaotische, fünf köpfige Familie."
