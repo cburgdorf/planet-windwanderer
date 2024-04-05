@@ -126,6 +126,13 @@ timestamp = 1688083200
 title = "Grenada - neue Buchten und alte Bekanntschaften - AMELIJA"
 url = "https://sailing-amelija.de/grenada-neue-buchten-und-alte-bekanntschaften/"
 
+[sailingmabul.11759489262276183188]
+description = "Wir segeln in San Blas, einem ausgedehnten Archipel mit über 350 Inseln an der Nordostküste von Panama gelegen."
+id = "11759489262276183188"
+timestamp = 1712275200
+title = "Segeln in San Blas - Sailing Mabul"
+url = "https://www.sailingmabul.com/2024/04/05/galerie-san-blas-i/"
+
 [sailingmabul.11996969414974908300]
 description = "Im zweiten Teil des Segelboot Refit in Guatemala wird Mabul langsam aber sicher wieder zusammengebaut und erstrahlt in neuem Glanz."
 id = "11996969414974908300"
@@ -133,19 +140,12 @@ timestamp = 1711843200
 title = "Segelboot Refit Guatemala II - Sailing Mabul"
 url = "https://www.sailingmabul.com/2024/03/31/auf-dem-trockenen-ii/"
 
-[sailingmabul.12209363165658586981]
-description = "In the second part of the sailboat refit in Guatemala, Mabul is slowly but surely being reassembled and shines in new splendour."
-id = "12209363165658586981"
-timestamp = 1711843200
-title = "Sailboat Refit Guatemala II - Sailing Mabul"
-url = "https://www.sailingmabul.com/en/2024/03/31/on-the-hard-ii/"
-
-[sailingmabul.14088710632703674443]
-description = "Im ersten Teil des Segelboot Refit in Guatemala wird Mabul mit Hammer, Winkelschleifer und Stemmeisen in Angriff genommen."
-id = "14088710632703674443"
-timestamp = 1707868800
-title = "Segelboot Refit Guatemala I - Sailing Mabul"
-url = "https://www.sailingmabul.com/2024/02/14/auf-dem-trockenen-i/"
+[sailingmabul.9697659322548757529]
+description = "We are cruising in San Blas, an extensive archipelago with over 350 islands on the north-east coast of Panama."
+id = "9697659322548757529"
+timestamp = 1712275200
+title = "Cruising San Blas - Sailing Mabul"
+url = "https://www.sailingmabul.com/en/2024/04/05/gallery-san-blas-i/"
 
 [sailingnakiipu.16013365068778409301]
 description = "# sailing Begleitet die Abenteuer mit unserem Segelboot, Nakii Pu, auf dem Meer. Wir sind eine chaotische, fünf köpfige Familie."
