@@ -39,6 +39,8 @@ sysilence = { title = "SY Silence", sitemap="https://sy-silence.de/sitemap-1.xml
 sygegenwind = { title = "SY Gegenwind", sitemap="https://sy-gegenwind.de/wp-sitemap-posts-post-1.xml", logo=""}
 sailing_amelija = { title = "Sailing Amelija", sitemap="https://sailing-amelija.de/post-sitemap.xml", logo="https://sailing-amelija.de/wp-content/uploads/2022/07/Logo-transparent-weiss.gif"}
 sailingmabul = { title ="Sailing Mabul", logo="https://i0.wp.com/www.sailingmabul.com/wp-content/uploads/2022/06/cropped-MabulLogo.png?fit=100%2C1024", sitemap = "https://www.sailingmabul.com/post-sitemap.xml", dateregex='''(\d{4}/\d{2}/\d{2})'''}
+milagros = { title = "milagros", logo="https://milagros.ch/wp-content/themes/simpleblog/images/logo.png", sitemap="https://milagros.ch/post-sitemap.xml"}
+
 
 # TODO: Debug why this one isnt working
 # themaverics = { title ="The Maverics", sitemap="https://www.the-mavericks.de/wp-sitemap-posts-post-1.xml", logo=""}
