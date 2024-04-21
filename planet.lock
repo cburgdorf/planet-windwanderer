@@ -19,6 +19,13 @@ timestamp = 1713312000
 title = "Bye bye Belize"
 url = "https://ahoi.blog/bye-bye-belize"
 
+[blauwassersegeln.12281160733157756402]
+description = "Du hast dich entschieden und planst eine längere Auszeit am Meer. Welche Vorbereitungen zum Fahrtensegeln sind nötig für die Blauwasserreise? Wir geben dir umfangreiche Tipps!"
+id = "12281160733157756402"
+timestamp = 1713657600
+title = "Vorbereitungen zum Fahrtensegeln"
+url = "https://blauwassersegeln.at/vorbereitungen-zum-fahrtensegeln/"
+
 [blauwassersegeln.12395308408226286860]
 description = "Aussteigen, ablegen, aufbrechen. Auch du"
 id = "12395308408226286860"
@@ -32,13 +39,6 @@ id = "16445730888391698609"
 timestamp = 1712880000
 title = "Aufbrechen - aber wie?"
 url = "https://blauwassersegeln.at/aufbrechen-aber-wie/"
-
-[blauwassersegeln.8407751694119218542]
-description = "In Zusammenarbeit mit dem größten deutschen Blauwassersegler-Verein Trans-Ozean unterstützen wir alle Los-Segler. Beim gemeinsamen Zoom-Abend drehte sich deshalb alles um den Proviant für Ozeansegler. Hier findest du alle Unterlagen zum Vortrag..."
-id = "8407751694119218542"
-timestamp = 1711497600
-title = "Unser TO-Seminar: Proviantieren für eine Ozeanüberquerung"
-url = "https://blauwassersegeln.at/proviantieren-fuer-ozeanueberquerung/"
 
 [bluehorizonsailing.1334339429087352928]
 description = ""
