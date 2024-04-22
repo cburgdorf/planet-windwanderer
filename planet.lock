@@ -19,19 +19,19 @@ timestamp = 1713312000
 title = "Bye bye Belize"
 url = "https://ahoi.blog/bye-bye-belize"
 
-[blauwassersegeln.12281160733157756402]
-description = "Du hast dich entschieden und planst eine längere Auszeit am Meer. Welche Vorbereitungen zum Fahrtensegeln sind nötig für die Blauwasserreise? Wir geben dir umfangreiche Tipps!"
-id = "12281160733157756402"
-timestamp = 1713657600
-title = "Vorbereitungen zum Fahrtensegeln"
-url = "https://blauwassersegeln.at/vorbereitungen-zum-fahrtensegeln/"
-
 [blauwassersegeln.12468957620127970981]
 description = "Aussteigen, ablegen, aufbrechen. Auch du träumst von einer langen Reise mit dem Segelboot. Wir geben ein paar Tipps, wie du dich finanziell darauf vorbereiten kannst."
 id = "12468957620127970981"
 timestamp = 1713744000
 title = "Finanzielle Vorbereitungen zum Blauwassersegeln"
 url = "https://blauwassersegeln.at/finanzielle-vorbereitungen-zum-blauwassersegeln/"
+
+[blauwassersegeln.13082264134793428372]
+description = "Du hast dich entschieden und planst eine längere Auszeit am Meer. Welche Vorbereitungen zum Fahrtensegeln sind nötig für die Blauwasserreise? Wir geben dir umfangreiche Tipps!"
+id = "13082264134793428372"
+timestamp = 1713744000
+title = "Vorbereitungen zum Fahrtensegeln"
+url = "https://blauwassersegeln.at/vorbereitungen-zum-fahrtensegeln/"
 
 [blauwassersegeln.16445730888391698609]
 description = "Anders Leben, die Welt entdecken, aufbrechen. Wir leben in einer Zeit, in der es möglich ist, unseren Lebensweg selbst zu bestimmen und unsere Träume in die Realität umzusetzen. Aber wie lassen sich Träume eigentlich einfangen?"
