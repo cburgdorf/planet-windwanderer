@@ -189,19 +189,19 @@ timestamp = 1667779200
 title = "#4 Unser Boot… - Sailing Nakii Pu"
 url = "https://sailing-nakiipu.com/4-unser-boot/"
 
-[syflora.15700583774313047365]
-description = "Der Sonnenschein hält sich nur bis zum Mittag, dann ziehen dunkle Wolken auf. Die chaotische See und der kräftige Wind aber bleiben und begleiten uns durch die Nacht. Im Dunkel passieren wir auch d…"
-id = "15700583774313047365"
-timestamp = 1713571200
-title = "Passage Gambier – Marquesas, Tag 2"
-url = "https://syflora.blog/2024/04/20/passage-gambier-marquesas-tag-2/"
-
 [syflora.4000746767778278996]
 description = "Am Nachmittag nimmt der Wind ein bisschen ab und auch die See beruhigt sich ein wenig, wir bringen zwischendurch sogar mal die Angel aus. Fangen aber nichts, und zum Abend nimmt der Wind wieder etw…"
 id = "4000746767778278996"
 timestamp = 1713657600
 title = "Passage Gambier –  Marquesas, Tag 3"
 url = "https://syflora.blog/2024/04/21/passage-gambier-marquesas-tag-3/"
+
+[syflora.7500709509200082012]
+description = "Die Marquesas machen es uns nicht leicht. Schon die fünftägige Überfahrt von den Gambier ist wegen der Seegangsverhältnisse eher anstrengend. Kurz vor der Ankunft wird dann noch einmal alles aufgeb…"
+id = "7500709509200082012"
+timestamp = 1713830400
+title = "Angekommen in Fatu Hiva"
+url = "https://syflora.blog/2024/04/23/angekommen-in-fatu-hiva/"
 
 [syflora.7820813139331815718]
 description = "Es bleibt dabei auf diesem Törn: flott unterwegs, aber anstrengend. Der Seegang lässt keine rechte Entspannung zu, wir werden ordentlich durchgeschaukelt. Und es ist warm geworden. Das Wasser hat i…"
