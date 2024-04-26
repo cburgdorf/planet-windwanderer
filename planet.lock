@@ -300,13 +300,6 @@ timestamp = 1711238400
 title = "Auf zu neuen Ufern - Endlich Balearen"
 url = "https://slisand.blogspot.com/2024/03/auf-zu-neuen-ufern-endlich-balearen.html"
 
-[weltahoi.14626371157392223873]
-description = "Mitte September war es an der Zeit, die Marina Las Palmas zu verlassen. Zum einen mussten wir den Regattateilnehmern der ARC (Atlantic Rally for Cruisers) weich"
-id = "14626371157392223873"
-timestamp = 1697241600
-title = "Tapetenwechsel - auf nach Teneriffa und La Palma"
-url = "https://welt-ahoi.de/2023/10/14/tapetenwechsel-auf-nach-teneriffa-und-la-palma/"
-
 [weltahoi.17382768423453976669]
 description = "Etwas verspätet wünschen wir unseren Lesern alles Gute für 2024! Wir hoffen, dass ihr gesund und munter seid und falls nicht, drücken wir die Daumen, dass e"
 id = "17382768423453976669"
@@ -320,6 +313,13 @@ id = "2421207856215682553"
 timestamp = 1698105600
 title = "Wunderschönes La Palma"
 url = "https://welt-ahoi.de/2023/10/24/wunderschoenes-la-palma/"
+
+[weltahoi.3484596070978873902]
+description = "Seit dem letzten Blogbeitrag sind mehrere Monate ins Land gegangen. Es wird also Zeit, dass ich mich mal wieder melde. Derzeit fühlt es sich so an, als würde"
+id = "3484596070978873902"
+timestamp = 1714089600
+title = "Zwischen Baum und Borke"
+url = "https://welt-ahoi.de/2024/04/26/zwischen-baum-und-borke/"
 
 [windwanderer.16909160602875580296]
 description = "Wir sitzen bei angenehmem Wind und Sonne im Cockpit und setzen von Ibiza aufs spanische Festland über, wie wir diese Zeilen schreiben. Doch bis hierhi…"
