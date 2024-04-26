@@ -147,6 +147,13 @@ timestamp = 1688083200
 title = "Grenada - neue Buchten und alte Bekanntschaften - AMELIJA"
 url = "https://sailing-amelija.de/grenada-neue-buchten-und-alte-bekanntschaften/"
 
+[sailingmabul.11962628351382633696]
+description = "We assist with the Panama canal transit from Colon to Panama City on board SV My Motu. After 14 intense hours, we reach the Pacific."
+id = "11962628351382633696"
+timestamp = 1714089600
+title = "Panama canal transit - Sailing Mabul"
+url = "https://www.sailingmabul.com/en/2024/04/26/gallery-panama-canal/"
+
 [sailingmabul.13687159655522208745]
 description = "While cruising in Panama, we not only explore San Blas, but also Colon, the canal and Panama City. The contrast to San Blas is stunning."
 id = "13687159655522208745"
@@ -154,19 +161,12 @@ timestamp = 1713484800
 title = "Cruising Panama - Sailing Mabul"
 url = "https://www.sailingmabul.com/en/2024/04/19/gallery-panama/"
 
-[sailingmabul.15494592397914609520]
-description = "Beim Segeln in Panama erkunden wir nicht nur San Blas, sondern auch Colon, den Kanal und Panama City. Der Kontrast zu San Blas ist krass."
-id = "15494592397914609520"
-timestamp = 1713484800
-title = "Segeln in Panama - Sailing Mabul"
-url = "https://www.sailingmabul.com/2024/04/19/galerie-panama/"
-
-[sailingmabul.17017548197424466361]
-description = "After all the tasks, we are cruising again and return to San Blas, this time with Karin's father George, who accompanies us for two weeks."
-id = "17017548197424466361"
-timestamp = 1712880000
-title = "Cruising San Blas 2 - Sailing Mabul"
-url = "https://www.sailingmabul.com/en/2024/04/12/gallery-san-blas-ii/"
+[sailingmabul.2120683641295056897]
+description = "Wir helfen beim Panama Kanal Transit von Colon nach Panama City an Bord von SV My Motu. Nach 14 intensiven Stunden erreichen wir den Pazifik."
+id = "2120683641295056897"
+timestamp = 1714089600
+title = "Panama Kanal Transit - Sailing Mabul"
+url = "https://www.sailingmabul.com/2024/04/26/galerie-panama-kanal/"
 
 [sailingnakiipu.16013365068778409301]
 description = "# sailing Begleitet die Abenteuer mit unserem Segelboot, Nakii Pu, auf dem Meer. Wir sind eine chaotische, fünf köpfige Familie."
