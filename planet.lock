@@ -1,3 +1,10 @@
+[ahoi.11482955494687917930]
+description = "Providencia ist eine kleine Insel östlich von Nicaragua. Sie ist nur etwa sieben mal vier Kilometer groß und gehört zu Kolumbien."
+id = "11482955494687917930"
+timestamp = 1715731200
+title = "Providencia"
+url = "https://ahoi.blog/providencia"
+
 [ahoi.15465004850170177408]
 description = "Von Belize nach Providencia segeln wir 900 Meilen am Wind, vorbei an Cayman, Honduras und Nicaragua. Eine anstrengende, aber schöne Überfahrt"
 id = "15465004850170177408"
@@ -11,13 +18,6 @@ id = "15736806749264765602"
 timestamp = 1714694400
 title = "Belize - Riffe, Inselchen und Mangroven"
 url = "https://ahoi.blog/belize-riffe-inselchen-und-mangroven"
-
-[ahoi.5543211821521621047]
-description = "Morgen geht es weiter. Die letzten Tage in Belize verbringen wir in Placencia, wo wir ein paar Kleinigkeiten erledigen bevor es los geht."
-id = "5543211821521621047"
-timestamp = 1713312000
-title = "Bye bye Belize"
-url = "https://ahoi.blog/bye-bye-belize"
 
 [blauwassersegeln.12468957620127970981]
 description = "Aussteigen, ablegen, aufbrechen. Auch du träumst von einer langen Reise mit dem Segelboot. Wir geben ein paar Tipps, wie du dich finanziell darauf vorbereiten kannst."
