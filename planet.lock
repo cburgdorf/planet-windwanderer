@@ -154,19 +154,19 @@ timestamp = 1714089600
 title = "Panama canal transit - Sailing Mabul"
 url = "https://www.sailingmabul.com/en/2024/04/26/gallery-panama-canal/"
 
-[sailingmabul.13687159655522208745]
-description = "While cruising in Panama, we not only explore San Blas, but also Colon, the canal and Panama City. The contrast to San Blas is stunning."
-id = "13687159655522208745"
-timestamp = 1713484800
-title = "Cruising Panama - Sailing Mabul"
-url = "https://www.sailingmabul.com/en/2024/04/19/gallery-panama/"
-
 [sailingmabul.2120683641295056897]
 description = "Wir helfen beim Panama Kanal Transit von Colon nach Panama City an Bord von SV My Motu. Nach 14 intensiven Stunden erreichen wir den Pazifik."
 id = "2120683641295056897"
 timestamp = 1714089600
 title = "Panama Kanal Transit - Sailing Mabul"
 url = "https://www.sailingmabul.com/2024/04/26/galerie-panama-kanal/"
+
+[sailingmabul.8064797378487062145]
+description = "Wir segeln von Guatemala nach Providencia durch Piratengebiet. Wie die mehrtätige, ruppige Überfahrt verläuft liest du hier."
+id = "8064797378487062145"
+timestamp = 1717545600
+title = "Segeln von Guatemala nach Providencia - Sailing Mabul"
+url = "https://www.sailingmabul.com/2024/06/05/nachtfahrt-durchs-piratengebiet/"
 
 [sailingnakiipu.16013365068778409301]
 description = "# sailing Begleitet die Abenteuer mit unserem Segelboot, Nakii Pu, auf dem Meer. Wir sind eine chaotische, fünf köpfige Familie."
