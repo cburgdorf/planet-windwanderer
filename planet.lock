@@ -84,19 +84,19 @@ timestamp = 1690761600
 title = "Q&A"
 url = "https://elenaundben.de/blogs/q-a"
 
-[hafenkino.12879571680267872852]
-description = "Hier bekommst du unsere Tipps, wie du als Ostseesegler, Binnensegler oder Anfänger gut durch den Ärmelkanal kommst."
-id = "12879571680267872852"
-timestamp = 1701820800
-title = "How to: Ärmelkanal für Ostseesegler • HAFENKINO.blog | Segelblog"
-url = "https://hafenkino.blog/aermelkanal-fuer-ostseesegler/"
-
 [hafenkino.16118095191656740267]
 description = "Du willst auf dem Segelboot überwintern? Hier unsere 5 ultimativen Tipps! Selbst erlebt und getestet in 3 Wintern."
 id = "16118095191656740267"
 timestamp = 1701907200
 title = "5 ultimative Tipps zum Überwintern auf dem Segelboot • HAFENKINO.blog | Segelblog"
 url = "https://hafenkino.blog/5-ultimative-tipps-zum-ueberwintern-auf-dem-segelboot/"
+
+[hafenkino.3140120120098646468]
+description = "Erfahre, wie wir unser Segelboot für Langfahrt und Blauwasser autark gemacht haben. Unser Energiemanagement mit Solarzellen, Wellengenerator und moderner Technik bietet dir wertvolle Tipps für ein unabhängiges Leben auf See."
+id = "3140120120098646468"
+timestamp = 1717804800
+title = "Autarkes Leben auf dem Segelboot: Unser Energiekonzept für Langfahrt und Blauwasser • HAFENKINO.blog | Segelblog"
+url = "https://hafenkino.blog/autarkes-leben-auf-dem-segelboot-so-machen-wir-unser-boot-autark-fuer-langfahrt-und-blauwasser/"
 
 [hafenkino.6207824538677526264]
 description = "Effiziente Werkzeugordnung an Bord: Dein Werkzeug optimal organisiert und immer griffbereit! Der perfekte Leitfaden für Segler."
