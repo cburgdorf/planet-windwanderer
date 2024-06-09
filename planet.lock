@@ -26,19 +26,19 @@ timestamp = 1713744000
 title = "Finanzielle Vorbereitungen zum Blauwassersegeln"
 url = "https://blauwassersegeln.at/finanzielle-vorbereitungen-zum-blauwassersegeln/"
 
-[blauwassersegeln.13082264134793428372]
-description = "Du hast dich entschieden und planst eine längere Auszeit am Meer. Welche Vorbereitungen zum Fahrtensegeln sind nötig für die Blauwasserreise? Wir geben dir umfangreiche Tipps!"
-id = "13082264134793428372"
-timestamp = 1713744000
-title = "Vorbereitungen zum Fahrtensegeln"
-url = "https://blauwassersegeln.at/vorbereitungen-zum-fahrtensegeln/"
-
 [blauwassersegeln.16445730888391698609]
 description = "Anders Leben, die Welt entdecken, aufbrechen. Wir leben in einer Zeit, in der es möglich ist, unseren Lebensweg selbst zu bestimmen und unsere Träume in die Realität umzusetzen. Aber wie lassen sich Träume eigentlich einfangen?"
 id = "16445730888391698609"
 timestamp = 1712880000
 title = "Aufbrechen - aber wie?"
 url = "https://blauwassersegeln.at/aufbrechen-aber-wie/"
+
+[blauwassersegeln.16654802504697466989]
+description = "Du hast dich entschieden und planst eine längere Auszeit am Meer. Welche Vorbereitungen zum Fahrtensegeln sind nötig für die Blauwasserreise? Wir geben dir umfangreiche Tipps!"
+id = "16654802504697466989"
+timestamp = 1717891200
+title = "Vorbereitungen zum Fahrtensegeln"
+url = "https://blauwassersegeln.at/vorbereitungen-zum-fahrtensegeln/"
 
 [bluehorizonsailing.1334339429087352928]
 description = ""
