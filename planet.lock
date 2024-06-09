@@ -252,6 +252,24 @@ timestamp = 1710633600
 title = "Abschied von den Kanaren"
 url = "https://www.sy-picaroon.de/2024/03/17/abschied-von-den-kanaren/"
 
+[sysilence.1016727718629615344]
+description = "Da unser Großsegel nach 13 Jahren mehr als ausgedient hat, musste so langsam mal ein neues Segel her. Im Juni letzten Jahres war uns zwischen Antigua und Guadeloupe mal wieder ein Reff ausgerissen, welches Kai beim Segelmacher in Antigua reparieren ließ. Da gerade Sommer und nicht viel zu tun war, musste er lediglich US$250 zahlen, aber nochmal solch eine Reparatur wäre unser Segel wahrscheinlich nicht mehr wert."
+id = "1016727718629615344"
+timestamp = 1717891200
+title = """
+
+Neues Großsegel | Segelyacht Silence\t"""
+url = "https://sy-silence.de/2024/06/09/neues-grosssegel/"
+
+[sysilence.10244804506343883699]
+description = "Irgendwie hatten wir von Januar bis Mitte April einfach keine Zeit uns unseren ganzen anstehenden Boots-Projekten zu widmen, weil wir immer wieder Besuch von Freunden oder AirBnB-Gästen hatten."
+id = "10244804506343883699"
+timestamp = 1717804800
+title = """
+
+Jede Menge Bootsprojekte | Segelyacht Silence\t"""
+url = "https://sy-silence.de/2024/06/05/jede-menge-bootsprojekte/"
+
 [sysilence.13880211141643201584]
 description = "…bin ich im wahrsten Sinne des Wortes, als ich kürzlich nach mehr als einjähriger Pause mal wieder mit unserem Kitefoil-Equipment unterwegs war."
 id = "13880211141643201584"
@@ -260,24 +278,6 @@ title = """
 
 Mit einem blauen Auge davon gekommen… | Segelyacht Silence\t"""
 url = "https://sy-silence.de/2024/05/31/mit-einem-blauen-auge-davon-gekommen/"
-
-[sysilence.16935130647360948066]
-description = "Irgendwie hatten wir von Januar bis Mitte April einfach keine Zeit uns unseren ganzen anstehenden Boots-Projekten zu widmen, weil wir immer wieder Besuch von Freunden oder AirBnB-Gästen hatten."
-id = "16935130647360948066"
-timestamp = 1717545600
-title = """
-
-Jede Menge Bootsprojekte | Segelyacht Silence\t"""
-url = "https://sy-silence.de/2024/06/05/jede-menge-bootsprojekte/"
-
-[sysilence.880218909635401901]
-description = "Was bei Kai zuerst aussah wie eine kleine Augenentzündung am unteren Rand des Auges, wurde jeden Tag röter und schwoll mehr an. Nach ein paar Tagen und etwas Internetrecherche waren wir uns ziemlich sicher, dass es sich um ein Hagelkorn handeln müsse. Ich gab Kai zur Sicherheit Mal antibiotische Tropfen und Salbe, aber leider half dies nichts und man konnte zusehen, wie es immer dicker wurde."
-id = "880218909635401901"
-timestamp = 1717200000
-title = """
-
-Hagel- oder Gerstenkorn, das war hier die große Frage | Segelyacht Silence\t"""
-url = "https://sy-silence.de/2024/06/01/hagel-oder-gerstenkorn-das-war-hier-die-grosse-frage/"
 
 [syslisand.18150895235807127365]
 description = ""
