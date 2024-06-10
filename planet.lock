@@ -5,19 +5,19 @@ timestamp = 1715731200
 title = "Providencia"
 url = "https://ahoi.blog/providencia"
 
-[ahoi.15465004850170177408]
-description = "Von Belize nach Providencia segeln wir 900 Meilen am Wind, vorbei an Cayman, Honduras und Nicaragua. Eine anstrengende, aber schöne Überfahrt"
-id = "15465004850170177408"
-timestamp = 1714694400
-title = "Belize - Providencia: 900 Meilen am Wind"
-url = "https://ahoi.blog/belize-providencia-900-meilen-am-wind"
-
 [ahoi.15736806749264765602]
 description = "Belize ist bekannt für sein Riff, die zahllosen Inselchen und seine atemberaubende Unterwasserwelt. Es ist seit langem ein Traumziel von uns"
 id = "15736806749264765602"
 timestamp = 1714694400
 title = "Belize - Riffe, Inselchen und Mangroven"
 url = "https://ahoi.blog/belize-riffe-inselchen-und-mangroven"
+
+[ahoi.9904374308422021002]
+description = "15 Soldaten ohne Boot auf einer Insel, Fischer und Schmuggler auf der Nachbarinsel und wir in der Mitte vor Anker. Willkommen auf Albuquerque"
+id = "9904374308422021002"
+timestamp = 1717977600
+title = "Albuquerque - von Fischern, Schmugglern und der Armada"
+url = "https://ahoi.blog/albuquerque-von-fischern-schmugglern-und-der-armada"
 
 [blauwassersegeln.12468957620127970981]
 description = "Aussteigen, ablegen, aufbrechen. Auch du träumst von einer langen Reise mit dem Segelboot. Wir geben ein paar Tipps, wie du dich finanziell darauf vorbereiten kannst."
