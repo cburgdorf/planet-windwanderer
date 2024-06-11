@@ -19,6 +19,13 @@ timestamp = 1717977600
 title = "Albuquerque - von Fischern, Schmugglern und der Armada"
 url = "https://ahoi.blog/albuquerque-von-fischern-schmugglern-und-der-armada"
 
+[blauwassersegeln.1173432408745947694]
+description = "Segeln in den Hohen Breiten liefert die Grundlagen für eine erfolgreiche Reise in anspruchsvolle Reviere."
+id = "1173432408745947694"
+timestamp = 1718064000
+title = "Segeln in den Hohen Breiten"
+url = "https://blauwassersegeln.at/segeln-in-den-hohen-breiten/"
+
 [blauwassersegeln.17005046255456138225]
 description = "Du möchtest Bücher von uns kaufen, dein lokaler Buchhandel hat aber kein Buch von uns im Geschäft und du möchtest nicht bei Amazon einkaufen? Kein Problem. Immer, wenn wir zuhause sind, gibts hier den Bücher-Direktverkauf. Und jetzt ganz neu: ab sofort ist auch das neueste Buch von Claudia \"Die magische Anziehungskraft des schwer Erreichbaren\" direkt bei uns erhältlich."
 id = "17005046255456138225"
@@ -32,13 +39,6 @@ id = "5921837455941764471"
 timestamp = 1718064000
 title = "Bordversorgung heute: Ernährung und Proviantieren an Bord von Fahrtenyachten"
 url = "https://blauwassersegeln.at/proviantieren-an-bord/"
-
-[blauwassersegeln.9095573485260621953]
-description = "Neu und druckfrisch: Die Probe aufs Exempel: Durch die Brüllenden Vierziger bis nach Kap Hoorn und über die gefährliche Drake Passage bis in die Antarktis. Eine Segelreise der Superlative. Hier geht's zur Leseprobe..."
-id = "9095573485260621953"
-timestamp = 1718064000
-title = "Die magische Anziehungskraft des schwer Erreichbaren"
-url = "https://blauwassersegeln.at/die-magische-anziehungskraft-des-schwer-erreichbaren/"
 
 [bluehorizonsailing.1334339429087352928]
 description = ""
