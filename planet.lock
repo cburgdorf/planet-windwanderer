@@ -26,19 +26,19 @@ timestamp = 1713744000
 title = "Finanzielle Vorbereitungen zum Blauwassersegeln"
 url = "https://blauwassersegeln.at/finanzielle-vorbereitungen-zum-blauwassersegeln/"
 
-[blauwassersegeln.16445730888391698609]
-description = "Anders Leben, die Welt entdecken, aufbrechen. Wir leben in einer Zeit, in der es möglich ist, unseren Lebensweg selbst zu bestimmen und unsere Träume in die Realität umzusetzen. Aber wie lassen sich Träume eigentlich einfangen?"
-id = "16445730888391698609"
-timestamp = 1712880000
-title = "Aufbrechen - aber wie?"
-url = "https://blauwassersegeln.at/aufbrechen-aber-wie/"
-
 [blauwassersegeln.16654802504697466989]
 description = "Du hast dich entschieden und planst eine längere Auszeit am Meer. Welche Vorbereitungen zum Fahrtensegeln sind nötig für die Blauwasserreise? Wir geben dir umfangreiche Tipps!"
 id = "16654802504697466989"
 timestamp = 1717891200
 title = "Vorbereitungen zum Fahrtensegeln"
 url = "https://blauwassersegeln.at/vorbereitungen-zum-fahrtensegeln/"
+
+[blauwassersegeln.5921837455941764471]
+description = "Was für ein schönes Gefühl war es doch, die Trossen zum letzten Mal von dem bekannten Steg zu lösen und zur großen Segelreise zu fernen Küsten aufzubrechen. Alle Vorbereitungen waren gemacht, die Schapps der Yacht bis zum Bersten mit einem bunten Lebensmittelvorrat gefüllt und neben den Wassertanks noch etliche Kanister mit Trinkwasser verstaut. Es war gerade Winterbeginn 1998, aber davon merkten wir im Süden von Kalifornien herzlich wenig. Ein wunderbares Leben an Bord erwartete uns. Wir standen am Beginn eines neuen, abenteuerlichen Lebenswegs. Ein Lebensweg, der uns viel weiter führen würde, als wir uns zu diesem Zeitpunkt jemals erträumen konnten. […]"
+id = "5921837455941764471"
+timestamp = 1718064000
+title = "Bordversorgung heute: Ernährung und Proviantieren an Bord von Fahrtenyachten"
+url = "https://blauwassersegeln.at/proviantieren-an-bord/"
 
 [bluehorizonsailing.1334339429087352928]
 description = ""
