@@ -147,12 +147,19 @@ timestamp = 1688083200
 title = "Grenada - neue Buchten und alte Bekanntschaften - AMELIJA"
 url = "https://sailing-amelija.de/grenada-neue-buchten-und-alte-bekanntschaften/"
 
-[sailingmabul.16181024382586159147]
-description = "Auf dem Weg zu den Cayman Islands zwingt uns Wassereintritt nach Cayos Albuquerque zu segeln, um Mabul wieder trockenzulegen und abzudichten."
-id = "16181024382586159147"
-timestamp = 1715731200
-title = "Segeln Cayos Albuquerque - Sailing Mabul"
-url = "https://www.sailingmabul.com/2024/05/15/galerie-cayos-albuquerque/"
+[sailingmabul.13502133835376390327]
+description = "We are anchored at Providencia, the charming cocaine island. We spend Christmas and New Year here with the crew of SV My Motu."
+id = "13502133835376390327"
+timestamp = 1718928000
+title = "Providencia Charming cocaine island - Sailing Mabul"
+url = "https://www.sailingmabul.com/en/2024/06/21/charming-cocaine-island/"
+
+[sailingmabul.14948208725831974043]
+description = "Wir liegen bei Providencia, der Kokaininsel mit Charme, vor Anker. Hier verbringen wir Weihnachten und Neujahr mit der Crew von SV My Motu."
+id = "14948208725831974043"
+timestamp = 1718928000
+title = "Providencia Kokaininsel mit Charme - Sailing Mabul"
+url = "https://www.sailingmabul.com/2024/06/21/kokaininsel-mit-charme/"
 
 [sailingmabul.7594052109345515942]
 description = "We are sailing from Guatemala to Providencia through pirate territory. You can read about the rough crossing, which lasted several days, here."
@@ -160,13 +167,6 @@ id = "7594052109345515942"
 timestamp = 1717545600
 title = "Sailing from Guatemala to Providencia - Sailing Mabul"
 url = "https://www.sailingmabul.com/en/2024/06/05/night-ride-through-pirate-territory/"
-
-[sailingmabul.8064797378487062145]
-description = "Wir segeln von Guatemala nach Providencia durch Piratengebiet. Wie die mehrtätige, ruppige Überfahrt verläuft liest du hier."
-id = "8064797378487062145"
-timestamp = 1717545600
-title = "Segeln von Guatemala nach Providencia - Sailing Mabul"
-url = "https://www.sailingmabul.com/2024/06/05/nachtfahrt-durchs-piratengebiet/"
 
 [sailingnakiipu.16013365068778409301]
 description = "# sailing Begleitet die Abenteuer mit unserem Segelboot, Nakii Pu, auf dem Meer. Wir sind eine chaotische, fünf köpfige Familie."
