@@ -261,6 +261,15 @@ title = """
 Alte Erinnerungen | Segelyacht Silence\t"""
 url = "https://sy-silence.de/2024/06/22/alte-erinnerungen/"
 
+[sysilence.2076473058195719279]
+description = "…sondern durchkreuzt unsere Pläne. Bis Grenada hatte alles ziemlich gut geklappt. Ab und an mussten wir eine tropische Welle vorbei lassen, bevor wir weiter segeln konnten. Doch das hatten wir ja so eingeplant."
+id = "2076473058195719279"
+timestamp = 1719792000
+title = """
+
+Das Wetter spielt nicht mit,… | Segelyacht Silence\t"""
+url = "https://sy-silence.de/2024/07/01/das-wetter-spielt-nicht-mit/"
+
 [sysilence.3419673945016304458]
 description = "Leider hatten wir nicht viel Zeit, sondern mussten nach ein paar Tagen schon wieder weiter ziehen. Es war zwar nicht das schönste Wetter, weil überall um uns herum Schauer lauerten, aber unser nächstes Ziel Carriacou lag nicht weit entfernt und ein kleiner Törn von 2 Stunden brachte uns dorthin."
 id = "3419673945016304458"
@@ -269,15 +278,6 @@ title = """
 
 Weiter nach Carriacou und Grenada | Segelyacht Silence\t"""
 url = "https://sy-silence.de/2024/06/24/weiter-nach-carriacou-und-grenada/"
-
-[sysilence.5696787774490306616]
-description = "Direkt bei Sonnenaufgang machten wir uns startklar, denn dieses Mal lag eine etwas längere Strecke vor uns."
-id = "5696787774490306616"
-timestamp = 1718841600
-title = """
-
-Von Dominica nonstop nach Union Island | Segelyacht Silence\t"""
-url = "https://sy-silence.de/2024/06/20/von-dominica-nonstop-nach-union-island/"
 
 [syslisand.11536440383293882763]
 description = ""
