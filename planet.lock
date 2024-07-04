@@ -342,13 +342,6 @@ timestamp = 1709683200
 title = "Der Weg zu unserer neuen Wanderer | Wind Wanderer"
 url = "https://windwanderer.xyz/der-weg-zu-unserer-neuen-wanderer/"
 
-[zweiammeer.13048755160519373190]
-description = "Die letzten Tage war kulinarisch einiges los auf unserem Segelboot. Wir haben neue Sachen ausprobiert und altbewährte Gerichte wiederholt."
-id = "13048755160519373190"
-timestamp = 1719187200
-title = "23. Juni 2024: Kulinarik am Segelboot | Zwei am Meer"
-url = "https://zweiammeer.com/23-juni-2024-kulinarik-am-segelboot/"
-
 [zweiammeer.3665569699366090000]
 description = "Diese Woche war in meiner Selbständigkeit einiges los. Denn ich hab meinen WordPress-Hafen gelauncht. Ich bin ja selbständig als Webdesignerin und hier"
 id = "3665569699366090000"
@@ -362,3 +355,10 @@ id = "3744881073211164150"
 timestamp = 1719187200
 title = "Pizza-Schnecken im Omnia | Zwei am Meer"
 url = "https://zweiammeer.com/pizza-schnecken-im-omnia/"
+
+[zweiammeer.8470323932497302783]
+description = "Nachdem ich im Supermarkt Marillen gesehen hab, habe ich beschlossen, zum ersten Mal, seit wir am Boot leben, Marmelade zu machen."
+id = "8470323932497302783"
+timestamp = 1720051200
+title = "Marillenmarmelade ohne Gelierzucker | Zwei am Meer"
+url = "https://zweiammeer.com/marillenmarmelade-ohne-gelierzucker/"
