@@ -105,12 +105,19 @@ timestamp = 1702080000
 title = "Werkzeugordnung an Bord: Ein perfekter Leitfaden für Segler • HAFENKINO.blog | Segelblog"
 url = "https://hafenkino.blog/effiziente-werkzeugordnung-fuer-segler/"
 
-[milagros.13333115686859484777]
-description = "This season, we're exploring various anchorages in the Loreto region, both familiar and new, with no set plans other than flying back to Switzerland in mid-June."
-id = "13333115686859484777"
-timestamp = 1714953600
-title = "Sailing, Snorkelling, Enjoying"
-url = "https://milagros.ch/sailing-snorkelling-enjoying/"
+[milagros.17308324998838712232]
+description = "For the next couple of weeks, we embarked on all the good times one could possibly think of with our close-knit group of friends, living our best lives."
+id = "17308324998838712232"
+timestamp = 1720742400
+title = "Island Hopping And Good Times And Farewells"
+url = "https://milagros.ch/island-hopping-adventures-farewells/"
+
+[milagros.1770449122808386092]
+description = "Für ein paar Wochen tummeln wir uns mit unseren guten Freunden kreuz und quer in der Sea of Cortez herum und leben unser bestes Leben."
+id = "1770449122808386092"
+timestamp = 1720742400
+title = "Inselhüpfen, gute Zeiten und Abschiede"
+url = "https://milagros.ch/de/inseln-abenteuer-abschiede/"
 
 [milagros.8535629904165561693]
 description = "We meet up with cruiser friends from Puerto Peñasco and celebrate two birthdays."
@@ -118,13 +125,6 @@ id = "8535629904165561693"
 timestamp = 1717718400
 title = "Sailors United: A Flotilla Adventure"
 url = "https://milagros.ch/sailors-united-a-flotilla-adventure/"
-
-[milagros.9790428310213526166]
-description = "Wir treffen uns mit Seglerfreunden aus Puerto Peñasco und feiern zwei Geburtstage."
-id = "9790428310213526166"
-timestamp = 1717718400
-title = "Wiedersehen und Flottille-Abenteuer"
-url = "https://milagros.ch/de/wiedersehehn-und-flottille-abenteuer/"
 
 [sailing_amelija.11387960691702004984]
 description = "Am 19. Juni um ca. 17:00 Uhr starteten wir unseren Törn nach Trinidad. Es sollte unsere letzte Überfahrt auf Amelija werden, bevor wie sie in die Hände des neuen Eigners übergeben. Der Wind kam wie immer in der Karibik aus dem Osten, nur diesmal fuhren wir den Großteil der Strecke durch den Äquatorialstrom mit einer Stärke von teils über 2Knoten, die uns nach Westen versetzte."
