@@ -147,26 +147,26 @@ timestamp = 1688083200
 title = "Grenada - neue Buchten und alte Bekanntschaften - AMELIJA"
 url = "https://sailing-amelija.de/grenada-neue-buchten-und-alte-bekanntschaften/"
 
-[sailingmabul.10512550899431034593]
-description = "Karin’s column about Cayos Albuquerque, a Colombian atoll off the coast of Nicaragua.Published in “global” magazine from Alliance Sud, issue Winter 2022/23. https://www.alliancesud.ch/de/cayo-albuquerque Teile diesen Post mit deinen Freunden! Facebook Twitter Linkedin Whatsapp Copy"
-id = "10512550899431034593"
-timestamp = 1719532800
-title = "The supposed paradise - Sailing Mabul"
-url = "https://www.sailingmabul.com/en/2024/06/28/the-supposed-paradise/"
-
-[sailingmabul.4626619297528023998]
-description = "Karins Portraits von vier Seglern, die wir auf unserer Reise getroffen haben.Erschienen in der NZZ vom 22.06.2024. https://www.nzz.ch/wochenende/schwerpunkt/logbuch-fuer-ein-glueckliches-leben-hochsee-weisheiten-fuer-auf-dem-meer-oder-an-land-ld.1835370 Teile diesen Post mit deinen Freunden! Facebook Twitter Linkedin Whatsapp Copy"
-id = "4626619297528023998"
-timestamp = 1719014400
-title = "Logbuch für ein glückliches Leben - Sailing Mabul"
-url = "https://www.sailingmabul.com/2024/06/22/logbuch-fuer-ein-glueckliches-leben/"
-
 [sailingmabul.5184234749053660898]
 description = "Karins Kolumne über Cayos Albuquerque, einem kolumbianischen Atoll vor der Küste Nicaraguas.Erschienen im Magazin „global“ von Alliance Sud, Ausgabe Sommer 2024. https://www.alliancesud.ch/de/cayo-albuquerque Teile diesen Post mit deinen Freunden! Facebook Twitter Linkedin Whatsapp Copy"
 id = "5184234749053660898"
 timestamp = 1719532800
 title = "Das vermeintliche Paradies - Sailing Mabul"
 url = "https://www.sailingmabul.com/2024/06/28/das-vermeintliche-paradies/"
+
+[sailingmabul.587944395183276824]
+description = "Wir segeln weiter nach San Blas, Panama. Hier treffen wir auf ein Insel Paradies, dass von den indigenen Guna bewohnt wird."
+id = "587944395183276824"
+timestamp = 1720742400
+title = "Cruising San Blas - Sailing Mabul"
+url = "https://www.sailingmabul.com/en/2024/07/12/guna-yala-en/"
+
+[sailingmabul.6540565652706980386]
+description = "Wir segeln weiter nach San Blas, Panama. Hier treffen wir auf ein Insel Paradies, dass von den indigenen Guna bewohnt wird."
+id = "6540565652706980386"
+timestamp = 1720742400
+title = "Segeln in San Blas - Sailing Mabul"
+url = "https://www.sailingmabul.com/2024/07/12/guna-yala/"
 
 [sailingnakiipu.16013365068778409301]
 description = "# sailing Begleitet die Abenteuer mit unserem Segelboot, Nakii Pu, auf dem Meer. Wir sind eine chaotische, fünf köpfige Familie."
