@@ -147,12 +147,19 @@ timestamp = 1688083200
 title = "Grenada - neue Buchten und alte Bekanntschaften - AMELIJA"
 url = "https://sailing-amelija.de/grenada-neue-buchten-und-alte-bekanntschaften/"
 
-[sailingmabul.5184234749053660898]
-description = "Karins Kolumne über Cayos Albuquerque, einem kolumbianischen Atoll vor der Küste Nicaraguas.Erschienen im Magazin „global“ von Alliance Sud, Ausgabe Sommer 2024. https://www.alliancesud.ch/de/cayo-albuquerque Teile diesen Post mit deinen Freunden! Facebook Twitter Linkedin Whatsapp Copy"
-id = "5184234749053660898"
-timestamp = 1719532800
-title = "Das vermeintliche Paradies - Sailing Mabul"
-url = "https://www.sailingmabul.com/2024/06/28/das-vermeintliche-paradies/"
+[sailingmabul.14527598730986886720]
+description = "There are plenty of boat jobs to do in Bocas del Toro. The cutlass bearing has to be replaced and the engine aligned in the boatyard."
+id = "14527598730986886720"
+timestamp = 1721952000
+title = "Boat jobs in Bocas del Toro - Sailing Mabul"
+url = "https://www.sailingmabul.com/en/2024/07/26/gallery-bocas-del-toro/"
+
+[sailingmabul.14634975818635511073]
+description = "Es gibt viele Boatjobs in Bocas del Toro zu erledigen. In der Werft muss das Wellenlager gewechselt und der Motor ausgerichtet werden."
+id = "14634975818635511073"
+timestamp = 1721952000
+title = "Boatjobs Bocas del Toro - Sailing Mabul"
+url = "https://www.sailingmabul.com/2024/07/26/galerie-bocas-del-toro/"
 
 [sailingmabul.587944395183276824]
 description = "Wir segeln weiter nach San Blas, Panama. Hier treffen wir auf ein Insel Paradies, dass von den indigenen Guna bewohnt wird."
@@ -160,13 +167,6 @@ id = "587944395183276824"
 timestamp = 1720742400
 title = "Cruising San Blas - Sailing Mabul"
 url = "https://www.sailingmabul.com/en/2024/07/12/guna-yala-en/"
-
-[sailingmabul.6540565652706980386]
-description = "Wir segeln weiter nach San Blas, Panama. Hier treffen wir auf ein Insel Paradies, dass von den indigenen Guna bewohnt wird."
-id = "6540565652706980386"
-timestamp = 1720742400
-title = "Segeln in San Blas - Sailing Mabul"
-url = "https://www.sailingmabul.com/2024/07/12/guna-yala/"
 
 [sailingnakiipu.16013365068778409301]
 description = "# sailing Begleitet die Abenteuer mit unserem Segelboot, Nakii Pu, auf dem Meer. Wir sind eine chaotische, fünf köpfige Familie."
