@@ -196,19 +196,19 @@ timestamp = 1722470400
 title = "Von Tahiti nach Moorea"
 url = "https://syflora.blog/2024/08/01/von-tahiti-nach-moorea/"
 
-[syflora.1326843152583585794]
-description = "Seglerisch ist nichts passiert, wir liegen immer noch am wunderbar geschützten Ankerplatz von Arue, einem Vorort von Papeete. Wir erkunden die Stadt und auch die Insel. Ein paar Tage haben wir geme…"
-id = "1326843152583585794"
-timestamp = 1721865600
-title = "Tahiti"
-url = "https://syflora.blog/2024/07/25/tahiti/"
-
 [syflora.15674911867084466206]
 description = "Die Landschaft auf Moorea lädt zum Wandern ein. Gleich mehrere Hikes bieten sich von unserem Ankerplatz aus an. Da wir noch ein bisschen angeschlagen sind, entscheiden wir uns gemeinsam mit Andrea …"
 id = "15674911867084466206"
 timestamp = 1722643200
 title = "Behandlung mit Panoramablick: Wandern, Ananas und Schonen vor Mooreas eindrucksvoller Kulisse"
 url = "https://syflora.blog/2024/08/03/behandlung-mit-panoramablick-wandern-ananas-und-schonen-vor-mooreas-eindrucksvoller-kulisse/"
+
+[syflora.4312275501747002608]
+description = "Der Ankerplatz hinter dem Riff am Point Vaipahu ist belebt. “Vibrant”, wie unserer amerikanischer Nachbar es formuliert. Ausflugsboote, Tauchboote und Schnorchelboote sausen vom nahegelegenen Hilto…"
+id = "4312275501747002608"
+timestamp = 1722988800
+title = "Und nun?"
+url = "https://syflora.blog/2024/08/07/und-nun/"
 
 [sygegenwind.13344115820894762633]
 description = ""
