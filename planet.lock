@@ -147,13 +147,6 @@ timestamp = 1688083200
 title = "Grenada - neue Buchten und alte Bekanntschaften - AMELIJA"
 url = "https://sailing-amelija.de/grenada-neue-buchten-und-alte-bekanntschaften/"
 
-[sailingmabul.14527598730986886720]
-description = "There are plenty of boat jobs to do in Bocas del Toro. The cutlass bearing has to be replaced and the engine aligned in the boatyard."
-id = "14527598730986886720"
-timestamp = 1721952000
-title = "Boat jobs in Bocas del Toro - Sailing Mabul"
-url = "https://www.sailingmabul.com/en/2024/07/26/gallery-bocas-del-toro/"
-
 [sailingmabul.14634975818635511073]
 description = "Es gibt viele Boatjobs in Bocas del Toro zu erledigen. In der Werft muss das Wellenlager gewechselt und der Motor ausgerichtet werden."
 id = "14634975818635511073"
@@ -161,12 +154,19 @@ timestamp = 1721952000
 title = "Boatjobs Bocas del Toro - Sailing Mabul"
 url = "https://www.sailingmabul.com/2024/07/26/galerie-bocas-del-toro/"
 
-[sailingmabul.587944395183276824]
-description = "Wir segeln weiter nach San Blas, Panama. Hier treffen wir auf ein Insel Paradies, dass von den indigenen Guna bewohnt wird."
-id = "587944395183276824"
-timestamp = 1720742400
-title = "Cruising San Blas - Sailing Mabul"
-url = "https://www.sailingmabul.com/en/2024/07/12/guna-yala-en/"
+[sailingmabul.7660730455584093507]
+description = "Mabul geht abermals in den Streik und will ein neues Ruderlager. Wir haben die Nase voll und fliegen in den Bootsurlaub auf Jamaica Rundreise."
+id = "7660730455584093507"
+timestamp = 1723161600
+title = "Jamaica Rundreise - Sailing Mabul"
+url = "https://www.sailingmabul.com/2024/08/09/galerie-jamaica/"
+
+[sailingmabul.9852210117482176512]
+description = "Mabul goes on strike again and wants a new rudder bearing. We've had enough and fly off on a round trip to Jamaica."
+id = "9852210117482176512"
+timestamp = 1723161600
+title = "Jamaica Round Trip - Sailing Mabul"
+url = "https://www.sailingmabul.com/en/2024/08/09/gallery-jamaica/"
 
 [sailingnakiipu.16013365068778409301]
 description = "# sailing Begleitet die Abenteuer mit unserem Segelboot, Nakii Pu, auf dem Meer. Wir sind eine chaotische, fünf köpfige Familie."
