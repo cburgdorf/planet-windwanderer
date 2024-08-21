@@ -147,19 +147,19 @@ timestamp = 1688083200
 title = "Grenada - neue Buchten und alte Bekanntschaften - AMELIJA"
 url = "https://sailing-amelija.de/grenada-neue-buchten-und-alte-bekanntschaften/"
 
-[sailingmabul.10754648297696815967]
-description = "Our feature on the lighthouse keepers of Cayo Guano del Este in Cuba.Published in NZZ, issue 3rd August 2024. https://www.nzz.ch/reisen/reisen-die-leuchtturmwaerter-von-der-cayo-guana-del-este-ld.1825105 Teile diesen Post mit deinen Freunden! Facebook Twitter Linkedin Whatsapp Copy"
-id = "10754648297696815967"
-timestamp = 1722643200
-title = "The Cayo Guano lighthouse keepers - Sailing Mabul"
-url = "https://www.sailingmabul.com/en/2024/08/03/the-cayo-guano-lighthouse-keepers/"
-
 [sailingmabul.7660730455584093507]
 description = "Mabul geht abermals in den Streik und will ein neues Ruderlager. Wir haben die Nase voll und fliegen in den Bootsurlaub auf Jamaica Rundreise."
 id = "7660730455584093507"
 timestamp = 1723161600
 title = "Jamaica Rundreise - Sailing Mabul"
 url = "https://www.sailingmabul.com/2024/08/09/galerie-jamaica/"
+
+[sailingmabul.9195726936452397638]
+description = "Unsere Reportage über die Leuchtturmwärter von Cayo Guano del Este in Kuba.Erschienen in der NZZ vom 03.08.2024. https://www.nzz.ch/reisen/reisen-die-leuchtturmwaerter-von-der-cayo-guana-del-este-ld.1825105 Teile diesen Post mit deinen Freunden! Facebook Twitter Linkedin Whatsapp Copy"
+id = "9195726936452397638"
+timestamp = 1722643200
+title = "Die Leuchtturmwärter von Cayo Guano - Sailing Mabul"
+url = "https://www.sailingmabul.com/2024/08/03/die-leuchtturmwaerter-von-cayo-guano/"
 
 [sailingmabul.9852210117482176512]
 description = "Mabul goes on strike again and wants a new rudder bearing. We've had enough and fly off on a round trip to Jamaica."
