@@ -229,10 +229,12 @@ Frankreich – Zwischenstopp in Cherbourg | Mit Gegenwind um die Welt\t"""
 url = "https://sy-gegenwind.de/2024/09/frankreich-zwischenstopp-in-cherbourg/"
 
 [sygegenwind.17747613842282246474]
-description = "No Desc Available"
+description = ""
 id = "17747613842282246474"
 timestamp = 1725926400
-title = "Wartungsmodus"
+title = """
+
+Azoren, Kurs Nord und dann Nordost der Heimat entgegen – 1.Tag auf See | Mit Gegenwind um die Welt\t"""
 url = "https://sy-gegenwind.de/2024/08/azoren-kurs-nord-und-dann-nordost-der-heimat-entgegen-1-tag-auf-see/"
 
 [syjobber.124703997552333666]
