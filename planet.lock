@@ -210,6 +210,15 @@ timestamp = 1724112000
 title = "Heimaturlaub"
 url = "https://syflora.blog/2024/08/20/heimaturlaub/"
 
+[sygegenwind.10175950765824029563]
+description = "Datum: Freitag, 06. September 2024 GPS-Position: N 51°13,483‘, E 002°56,384‘Ankunft in Oostende, Belgien um 16:40Uhr, zurückgelegte Distanz seit Dunkerque 27sm.Wetter: Nieselregen, Donnerschlag, Regenschauer, diesig, grauer Himmel, bei 19,7°C im Schiff, Wassertemperatur 19,7°C, Wind Südwest 2-3 Beaufort."
+id = "10175950765824029563"
+timestamp = 1725926400
+title = """
+
+Belgien – Ein neues Land auf unserer Reise | Mit Gegenwind um die Welt\t"""
+url = "https://sy-gegenwind.de/2024/09/belgien-ein-neues-land-auf-unserer-reise/"
+
 [sygegenwind.10348199899208479369]
 description = ""
 id = "10348199899208479369"
@@ -218,15 +227,6 @@ title = """
 
 Frankreich – Ein zweiter Zwischenstopp | Mit Gegenwind um die Welt\t"""
 url = "https://sy-gegenwind.de/2024/09/frankreich-ein-zweiter-zwischenstopp/"
-
-[sygegenwind.12624684871042046069]
-description = ""
-id = "12624684871042046069"
-timestamp = 1724803200
-title = """
-
-Azoren, Kurs Nord und dann Nordost der Heimat entgegen – 15.Tag auf See und Ankunft | Mit Gegenwind um die Welt\t"""
-url = "https://sy-gegenwind.de/2024/08/azoren-kurs-nord-und-dann-nordost-der-heimat-entgegen-15-tag-auf-see-und-ankunft/"
 
 [sygegenwind.15501254090307111659]
 description = "Wir sind schon fast wieder auf dem Sprung unsere Leinen zu lösen – das ganze Segeln artet schon nahezu in Streß aus."
