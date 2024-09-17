@@ -189,6 +189,13 @@ timestamp = 1667779200
 title = "#4 Unser Boot… - Sailing Nakii Pu"
 url = "https://sailing-nakiipu.com/4-unser-boot/"
 
+[syflora.10117764623232481131]
+description = "In weniger als zwei Wochen geht’s zurück auf die Flora. Einige Treffen mit Freunden hier in Hamburg stehen noch an, der Kalender ist gut gefüllt. Haben wir alles besorgt, was mir mit nach Tahiti ne…"
+id = "10117764623232481131"
+timestamp = 1726531200
+title = "Urlaubsbeschäftigung Sicherheitsausrüstung?"
+url = "https://syflora.blog/2024/09/17/urlaubsbeschaeftigung-sicherheitsausruestung/"
+
 [syflora.14392528380063372729]
 description = "Außer Besuchen von Freunden und Familie und den (zum Glück fast abgeschlossenen und bisher sehr zu unserer Zufriedenheit verlaufenden) Arztbesuchen ist überwiegend Chillen in Hamburg angesagt. Ande…"
 id = "14392528380063372729"
@@ -202,13 +209,6 @@ id = "617433805406002382"
 timestamp = 1725148800
 title = "Zwischenstand im Heimaturlaub"
 url = "https://syflora.blog/2024/09/01/zwischenstand-im-heimaturlaub/"
-
-[syflora.9624717375170449076]
-description = "Es klappt. Nach längerer Fehlersuche stellt sich heraus, dass der Elektrowurm gar keiner ist. Weder Kabel noch Schalter sind Schuld, dass der Watermaker nicht funktioniert. Wieso haben wir das nich…"
-id = "9624717375170449076"
-timestamp = 1724112000
-title = "Heimaturlaub"
-url = "https://syflora.blog/2024/08/20/heimaturlaub/"
 
 [sygegenwind.10175950765824029563]
 description = "Datum: Freitag, 06. September 2024 GPS-Position: N 51°13,483‘, E 002°56,384‘Ankunft in Oostende, Belgien um 16:40Uhr, zurückgelegte Distanz seit Dunkerque 27sm.Wetter: Nieselregen, Donnerschlag, Regenschauer, diesig, grauer Himmel, bei 19,7°C im Schiff, Wassertemperatur 19,7°C, Wind Südwest 2-3 Beaufort."
