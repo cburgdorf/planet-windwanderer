@@ -5,19 +5,19 @@ timestamp = 1726272000
 title = "Dolphin Bay und Turtle Cay"
 url = "https://ahoi.blog/dolphin-bay-und-turtle-cay"
 
-[ahoi.11326591485882674305]
-description = "Das Riff von Belize ist atemberaubend. Hier sehen wir Haie, Rochen, Delfine, Manatees und natürlich Korallen und Fische in allen Farben"
-id = "11326591485882674305"
-timestamp = 1726272000
-title = "Belize - am zweitlängsten Riff der Welt"
-url = "https://ahoi.blog/belize-am-zweitlaengsten-riff-der-welt"
-
 [ahoi.3242052630040481869]
 description = "15 Soldaten ohne Boot auf einer Insel, Fischer und Schmuggler auf der Nachbarinsel und wir in der Mitte vor Anker. Willkommen auf Albuquerque"
 id = "3242052630040481869"
 timestamp = 1726272000
 title = "Albuquerque - von Fischern, Schmugglern und der Armada"
 url = "https://ahoi.blog/albuquerque-von-fischern-schmugglern-und-der-armada"
+
+[ahoi.7937958988630071410]
+description = "Starfish Beach und Dolphin Bay besuchen wir, bevor wir Bocas del Toro verlassen und in Richtung Turtle Cay segeln."
+id = "7937958988630071410"
+timestamp = 1726531200
+title = "Dolphin Bay und Turtle Cay"
+url = "https://ahoi.blog/dolphin-bay-und-turtle-cay"
 
 [blauwassersegeln.1173432408745947694]
 description = "Segeln in den Hohen Breiten liefert die Grundlagen für eine erfolgreiche Reise in anspruchsvolle Reviere."
