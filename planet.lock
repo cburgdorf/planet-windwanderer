@@ -210,15 +210,6 @@ timestamp = 1725148800
 title = "Zwischenstand im Heimaturlaub"
 url = "https://syflora.blog/2024/09/01/zwischenstand-im-heimaturlaub/"
 
-[sygegenwind.10175950765824029563]
-description = "Datum: Freitag, 06. September 2024 GPS-Position: N 51°13,483‘, E 002°56,384‘Ankunft in Oostende, Belgien um 16:40Uhr, zurückgelegte Distanz seit Dunkerque 27sm.Wetter: Nieselregen, Donnerschlag, Regenschauer, diesig, grauer Himmel, bei 19,7°C im Schiff, Wassertemperatur 19,7°C, Wind Südwest 2-3 Beaufort."
-id = "10175950765824029563"
-timestamp = 1725926400
-title = """
-
-Belgien – Ein neues Land auf unserer Reise | Mit Gegenwind um die Welt\t"""
-url = "https://sy-gegenwind.de/2024/09/belgien-ein-neues-land-auf-unserer-reise/"
-
 [sygegenwind.167920461432928967]
 description = "Datum: Montag, 16. September 2024 GPS-Position: N 53°52,450‘, E 008°42,408‘, CuxhavenAnkunft in Cuxhaven, Deutschland um 11:15Uhr, zurückgelegte Distanz seit Oostende 297sm.Wetter: strahlender Sonnenschein, bei 20,8°C im Schiff, Wassertemperatur 19,0°C, Wind Nord 2 Beaufort."
 id = "167920461432928967"
@@ -228,14 +219,23 @@ title = """
 Industriepark Nordsee | Mit Gegenwind um die Welt\t"""
 url = "https://sy-gegenwind.de/2024/09/industriepark-nordsee/"
 
-[sygegenwind.17747613842282246474]
+[sygegenwind.6967960203724288955]
+description = "Wir haben Deutschland erreicht, es ist deutlich zu merken – wir sitzen fast nur noch unter Deck am PC und schreiben, beantworten Emails und organisieren die nächsten Tage. Jetzt dürft ihr nicht glauben, daß das keinen Spaß macht, das schon, aber die Ruhe und das Genießen der ersten Eindrücke in unserer Heimat, die uns alle gewünscht haben für unsere Ankunft, die gibt es nicht. Obwohl wir immer noch versuchen, uns für jeden mit dem wir zu tun haben, genug Zeit aufzubringen, wird unsere Zeit doch jetzt richtig knapp und wir haben die meisten Abende bis in die späten Stunden zu tun. Außerdem lag ja noch ein Stückchen Strecke vor uns, auf das wir uns vorbereiten mußten, denn die Prozedur für den Nord-Ostsee-Kanal war uns nicht mehr richtig geläufig nach unserer letzten Durchfahrt vor 10 Jahren."
+id = "6967960203724288955"
+timestamp = 1727395200
+title = """
+
+Deutschland – Fast zurück an unserem Ausgangsort | Mit Gegenwind um die Welt\t"""
+url = "https://sy-gegenwind.de/2024/09/deutschland-fast-zurueck-an-unserem-ausgangsort/"
+
+[sygegenwind.9331096344084941773]
 description = ""
-id = "17747613842282246474"
+id = "9331096344084941773"
 timestamp = 1725926400
 title = """
 
-Azoren, Kurs Nord und dann Nordost der Heimat entgegen – 1.Tag auf See | Mit Gegenwind um die Welt\t"""
-url = "https://sy-gegenwind.de/2024/08/azoren-kurs-nord-und-dann-nordost-der-heimat-entgegen-1-tag-auf-see/"
+Azoren, Kurs Nord und dann Nordost der Heimat entgegen – Leinen los dem Tief hinter! | Mit Gegenwind um die Welt\t"""
+url = "https://sy-gegenwind.de/2024/08/azoren-kurs-nord-und-dann-nordost-der-heimat-entgegen-leinen-los-dem-tief-hinter/"
 
 [syjobber.124703997552333666]
 description = "Wir hatten uns entschieden, für 10 Tage der Hitze in Curacao zu entfliehen und buchten einen Flug nach Medellin, was ja praktisch um die Ecke liegt und wo wir wahrscheinlich nicht mehr hinkommen würden, wenn wir die Gelegenheit jetzt nicht nutzten. Also bereiteten wir Jobber auf unsere Abreise vor und fuhren morgens mit dem Taxi zum Flughafen. Vom Taxifahrer bekamen wir noch wertvolle Tipps für Kolumbien, er kannte sich aus, denn er war viele Male mit seiner Frau auf Shoppingtour in Medellin. Wir erfuhren also, wo man am besten Geld tauscht (auf gar keinen Fall in Bogota, wo wir einen Zwischenstopp hatten, weil viiiiel zu teuer), wo man lokale SIM-Karten bekommt (nicht am Flughafen, weil viiiiel zu teuer) und wie man am günstigsten vom Flughafen in die Stadt kommt (nicht mit dem Taxi, weil zu teuer, sondern mit dem Bus), also gut, wir waren jetzt optimal vorbereitet. Wir hatten beide nur Handgepäck dabei, also alles easy. Der Flug von Bogota nach Medellin wurde gecancelt, wir bekamen einen späteren mit Upgrade in die Premium Area … auch nicht so schlimm. In Medellin wechselten wir Dollar in kolumbianische Pesos (1 Dollar – 4200 Pesos) und stellten uns, wie empfohlen, in die Schlange zum Bus in die Stadt. Dann kam allerdings ein Taxifahrer und überredete uns und noch zwei weitere Fahrgäste mit ihm zum gleichen Preis in die Stadt zu fahren. Wir willigten ein und fuhren etwa eine halbe Stunde durch einen Wahnsinnsverkehr mit viel Gehupe in die Stadt runter, sehr knapp vorbei an Autowerkstätten, die praktisch auf der Straße reparieren und lackieren. Nach ein wenig hin und her brachte der Taxifahrer uns noch für einen geringen Aufpreis zu unserem Appartement. Unser kleines Zuhause für 10 Tage war ganz o.k. für den Preis von 26 € pro Nacht. Es gab einen kleinen Supermarkt um die Ecke, bei dem wir erstmal ein paar Getränke, Klopapier und Zewa rollen und Spüli kauften. Später kamen noch ein paar Küchenutensilien dazu, die nicht vorhanden waren … scharfes Messer, Schere, Flaschenöffner."
