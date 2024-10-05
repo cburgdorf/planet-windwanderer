@@ -196,19 +196,19 @@ timestamp = 1726531200
 title = "Urlaubsbeschäftigung Sicherheitsausrüstung?"
 url = "https://syflora.blog/2024/09/17/urlaubsbeschaeftigung-sicherheitsausruestung/"
 
-[syflora.14392528380063372729]
-description = "Außer Besuchen von Freunden und Familie und den (zum Glück fast abgeschlossenen und bisher sehr zu unserer Zufriedenheit verlaufenden) Arztbesuchen ist überwiegend Chillen in Hamburg angesagt. Ande…"
-id = "14392528380063372729"
-timestamp = 1725926400
-title = "Feiermarathon"
-url = "https://syflora.blog/2024/09/10/feiermarathon/"
-
 [syflora.14519776636512426073]
 description = "So schnell vergehen 6 Wochen. Der Heimaturlaub ist schon wieder vorbei. Inzwischen sind wir in Paris und warten auf den Flieger, der uns (mit Zwischenstopp in Los Angeles) nach Papeete bringen soll…"
 id = "14519776636512426073"
 timestamp = 1727654400
 title = "Tschüss Hamburg, hallo Paris, Papeete, wir kommen."
 url = "https://syflora.blog/2024/09/30/tschuess-hamburg-hallo-paris-papeete-wir-kommen/"
+
+[syflora.17300403373925012213]
+description = "Wir sind wieder auf der Flora. Der Weg dorthin: Montag morgen um 10.00 Uhr bringt uns Chief Jan zum Flughafen in Hamburg. Wir checken unser Gepäck ein, wider Erwarten gehen beide großen Taschen und…"
+id = "17300403373925012213"
+timestamp = 1728000000
+title = "Phänomenal."
+url = "https://syflora.blog/2024/10/04/phaenomenal/"
 
 [sygegenwind.167920461432928967]
 description = "Datum: Montag, 16. September 2024 GPS-Position: N 53°52,450‘, E 008°42,408‘, CuxhavenAnkunft in Cuxhaven, Deutschland um 11:15Uhr, zurückgelegte Distanz seit Oostende 297sm.Wetter: strahlender Sonnenschein, bei 20,8°C im Schiff, Wassertemperatur 19,0°C, Wind Nord 2 Beaufort."
