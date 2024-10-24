@@ -189,13 +189,6 @@ timestamp = 1667779200
 title = "#4 Unser Boot… - Sailing Nakii Pu"
 url = "https://sailing-nakiipu.com/4-unser-boot/"
 
-[syflora.10098710442595024250]
-description = "Wir segeln von Moorea nach Raiatea. 90 Seemeilen, also ein Übernacht-Törn. Um 15.00 gehen wir ankerauf in Vaipahu, am nächsten Morgen um 09.00 Uhr nehmen wir in der tiefen Bucht von Hotopuu eine Mo…"
-id = "10098710442595024250"
-timestamp = 1728950400
-title = "Das schwarze Auge von Hotopuu, die Marae von Taputapuatea und die Perlen von Raiatea"
-url = "https://syflora.blog/2024/10/15/das-schwarze-auge-von-hotopuu-die-marae-von-taputapuatea-und-die-perlen-von-raiatea/"
-
 [syflora.11260967683176963127]
 description = "Der Wind frischt auf. Vom Pool am Motu Oatara verholen wir die Flora zur tief in die Insel Raiatea einschneidende Baie Faaroa. Dort finden wir deutlich besseren Schutz vor den sich jetzt schnell au…"
 id = "11260967683176963127"
@@ -209,6 +202,13 @@ id = "11401940921082667688"
 timestamp = 1729123200
 title = "Am Pool, im Pool, auf dem Pool!"
 url = "https://syflora.blog/2024/10/17/am-pool-im-pool-auf-dem-pool/"
+
+[syflora.6286017219202988842]
+description = "Unser nächster Ankerplatz liegt im Nordwesten von Raiatea. Um dorthin zu gelangen, fahren wir innerhalb des Riffes nach Norden. Wir passieren unter Segeln den Hauptort Utoroa und melden uns per Tel…"
+id = "6286017219202988842"
+timestamp = 1729641600
+title = "Tücken der Technik / Technik der Perlen"
+url = "https://syflora.blog/2024/10/23/tuecken-der-technik-technik-der-perlen/"
 
 [sygegenwind.167920461432928967]
 description = "Datum: Montag, 16. September 2024 GPS-Position: N 53°52,450‘, E 008°42,408‘, CuxhavenAnkunft in Cuxhaven, Deutschland um 11:15Uhr, zurückgelegte Distanz seit Oostende 297sm.Wetter: strahlender Sonnenschein, bei 20,8°C im Schiff, Wassertemperatur 19,0°C, Wind Nord 2 Beaufort."
