@@ -189,13 +189,6 @@ timestamp = 1667779200
 title = "#4 Unser Boot… - Sailing Nakii Pu"
 url = "https://sailing-nakiipu.com/4-unser-boot/"
 
-[syflora.11260967683176963127]
-description = "Der Wind frischt auf. Vom Pool am Motu Oatara verholen wir die Flora zur tief in die Insel Raiatea einschneidende Baie Faaroa. Dort finden wir deutlich besseren Schutz vor den sich jetzt schnell au…"
-id = "11260967683176963127"
-timestamp = 1729382400
-title = "Dinghy-Ausflug zum Eiscreme-Baum."
-url = "https://syflora.blog/2024/10/20/dinghy-ausflug-zum-eiscreme-baum/"
-
 [syflora.14073323264152528269]
 description = "Es bläst ganz ordentlich. Die letzten Tage meistens mit deutlich über 20 Knoten, also etwa Windstärke 6. Selbst am recht gut geschützten Zufluchtsort in der Baie Apu baut sich da eine unangenehme W…"
 id = "14073323264152528269"
@@ -209,6 +202,13 @@ id = "6286017219202988842"
 timestamp = 1729641600
 title = "Tücken der Technik / Technik der Perlen"
 url = "https://syflora.blog/2024/10/23/tuecken-der-technik-technik-der-perlen/"
+
+[syflora.969679901944597610]
+description = "Ingo hat am Sonntag Geburtstag und lädt zu 16.00 Uhr auf die Easy One ein. Tja, da müssen wir uns wohl noch Geschenke einfallen lassen. Während Wiebke aus den Tiefen der Stauräume Schwarzkirschen f…"
+id = "969679901944597610"
+timestamp = 1730073600
+title = "“O’zapft is” zum Kaffee und Nemo vor dem Frühstück"
+url = "https://syflora.blog/2024/10/28/ozapft-is-zum-kaffee-und-nemo-vor-dem-fruehstueck/"
 
 [sygegenwind.167920461432928967]
 description = "Datum: Montag, 16. September 2024 GPS-Position: N 53°52,450‘, E 008°42,408‘, CuxhavenAnkunft in Cuxhaven, Deutschland um 11:15Uhr, zurückgelegte Distanz seit Oostende 297sm.Wetter: strahlender Sonnenschein, bei 20,8°C im Schiff, Wassertemperatur 19,0°C, Wind Nord 2 Beaufort."
