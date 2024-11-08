@@ -19,12 +19,19 @@ timestamp = 1726531200
 title = "Dolphin Bay und Turtle Cay"
 url = "https://ahoi.blog/dolphin-bay-und-turtle-cay"
 
-[blauwassersegeln.1173432408745947694]
-description = "Segeln in den Hohen Breiten liefert die Grundlagen für eine erfolgreiche Reise in anspruchsvolle Reviere."
-id = "1173432408745947694"
-timestamp = 1718064000
-title = "Segeln in den Hohen Breiten"
-url = "https://blauwassersegeln.at/segeln-in-den-hohen-breiten/"
+[blauwassersegeln.10467023233507193326]
+description = "Ablaufen vor Sturm gehört vermutlich zu den ältesten und gängigsten Sturmtaktiken von Yachten.  Auch bei schwerer Sturmsee bewegt sich dabei die Yacht noch"
+id = "10467023233507193326"
+timestamp = 1731024000
+title = "Sturmsegeln Spezial - Teil 20: Ablaufen vorm Wind"
+url = "https://blauwassersegeln.at/sturmsegeln-spezial-teil-20-ablaufen-vorm-wind/"
+
+[blauwassersegeln.1547354371975047186]
+description = "Im Sturm aktiv segeln. Du hast zwei Möglichkeiten: Am Wind und vorm Wind. Wir zeigen dir, warum auch das Segeln hoch gegen den Sturm sinnvoll sein kann."
+id = "1547354371975047186"
+timestamp = 1731024000
+title = "Sturmsegeln Spezial - Teil 19: Aktiv segeln im Sturm"
+url = "https://blauwassersegeln.at/sturmsegeln-spezial-teil-19-aktiv-segeln-im-sturm/"
 
 [blauwassersegeln.6940537455712289749]
 description = "Es gibt kein Generalrezept, keine ultimative Strategie zum Abwettern von Stürmen. Wir zeigen dir, nach welchen Kriterien du eine passende Sturmtaktik auswählen kannst."
@@ -32,13 +39,6 @@ id = "6940537455712289749"
 timestamp = 1731024000
 title = "Sturmsegeln spezial - Teil 18: Sturmtaktiken wählen"
 url = "https://blauwassersegeln.at/sturmsegeln-spezial-teil-18-sturmtaktiken-waehlen/"
-
-[blauwassersegeln.9095573485260621953]
-description = "Neu und druckfrisch: Die Probe aufs Exempel: Durch die Brüllenden Vierziger bis nach Kap Hoorn und über die gefährliche Drake Passage bis in die Antarktis. Eine Segelreise der Superlative. Hier geht's zur Leseprobe..."
-id = "9095573485260621953"
-timestamp = 1718064000
-title = "Die magische Anziehungskraft des schwer Erreichbaren"
-url = "https://blauwassersegeln.at/die-magische-anziehungskraft-des-schwer-erreichbaren/"
 
 [bluehorizonsailing.1334339429087352928]
 description = ""
