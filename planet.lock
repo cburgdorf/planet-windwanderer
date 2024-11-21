@@ -219,13 +219,6 @@ timestamp = 1667779200
 title = "#4 Unser Boot… - Sailing Nakii Pu"
 url = "https://sailing-nakiipu.com/4-unser-boot/"
 
-[syflora.11821972005832258618]
-description = "Der Ankerplatz in der Baie d’ Avea ähnelt einer maritimen Sackgasse mit Wendehammer. So können wir mit Dinghy oder Paddelboard wunderbar zum Schnorcheln ins südliche Flachwassergebiet mit vielen Bo…"
-id = "11821972005832258618"
-timestamp = 1731024000
-title = "Nochmal Nemo, die blaue Rinne von Huahine und zurück nach Tahiti"
-url = "https://syflora.blog/2024/11/08/nochmal-nemo-die-blaue-rinne-von-huahine-und-zurueck-nach-tahiti/"
-
 [syflora.17116957137581241303]
 description = "Der Schreck des wild schlackernden Mastes ist erstmal weggesteckt, ein Dichtungsset für den defekten Achterstagspanner liegt schon in Hamburg bereit (ganz lieben Dank an Uwe und Jan). Jetzt müssen …"
 id = "17116957137581241303"
@@ -239,6 +232,13 @@ id = "1996461436844167234"
 timestamp = 1731369600
 title = "Nächtlicher Schreck – aber der Mast steht noch"
 url = "https://syflora.blog/2024/11/12/naechtlicher-schreck-aber-der-mast-steht-noch/"
+
+[syflora.2158794324518716066]
+description = "10 Tage sind wir schon im Atoll Tikehau und wir werden auch noch etwas länger hier bleiben. Es fühlt sich gut an, zurück in den Tuamotus zu sein. Abgeschiedener, mit freiem Blick über die niedrigen…"
+id = "2158794324518716066"
+timestamp = 1732147200
+title = "Wingfoil-Übungen in Tikehau"
+url = "https://syflora.blog/2024/11/21/wingfoil-uebungen-in-tikehau/"
 
 [sygegenwind.167920461432928967]
 description = "Datum: Montag, 16. September 2024 GPS-Position: N 53°52,450‘, E 008°42,408‘, CuxhavenAnkunft in Cuxhaven, Deutschland um 11:15Uhr, zurückgelegte Distanz seit Oostende 297sm.Wetter: strahlender Sonnenschein, bei 20,8°C im Schiff, Wassertemperatur 19,0°C, Wind Nord 2 Beaufort."
