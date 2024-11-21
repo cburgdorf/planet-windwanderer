@@ -19,6 +19,36 @@ timestamp = 1731283200
 title = "Durch den Panamakanal"
 url = "https://ahoi.blog/durch-den-panamakanal"
 
+[belleamie.16129213926691201503]
+description = """
+
+\t\t\t\tSegeln, Griechenland, Mittelmeer, Welt
+\t\t\t"""
+id = "16129213926691201503"
+timestamp = 1724630400
+title = "Krach – Schepper – Kawumm – Belle Amie"
+url = "https://sy-belleamie.de/unser-boot/krach-schepper-kawumm/"
+
+[belleamie.3772613066220262742]
+description = """
+
+\t\t\t\tSegeln, Griechenland, Mittelmeer, Welt
+\t\t\t"""
+id = "3772613066220262742"
+timestamp = 1722384000
+title = "Mahon, die Inselhauptstadt – Belle Amie"
+url = "https://sy-belleamie.de/blog/mahon-die-inselhauptstadt/"
+
+[belleamie.4739974445826893830]
+description = """
+
+\t\t\t\tSegeln, Griechenland, Mittelmeer, Welt
+\t\t\t"""
+id = "4739974445826893830"
+timestamp = 1722297600
+title = "Menorca – Es Grau – Belle Amie"
+url = "https://sy-belleamie.de/blog/menorca-es-grau/"
+
 [blauwassersegeln.10467023233507193326]
 description = "Ablaufen vor Sturm gehört vermutlich zu den ältesten und gängigsten Sturmtaktiken von Yachten.  Auch bei schwerer Sturmsee bewegt sich dabei die Yacht noch"
 id = "10467023233507193326"
