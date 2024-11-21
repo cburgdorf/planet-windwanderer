@@ -355,19 +355,19 @@ timestamp = 1718323200
 title = "Wildes Korsika & Boatwork | Wind Wanderer"
 url = "https://windwanderer.xyz/wildes-korsika-und-boatwork/"
 
-[windwanderer.18274617593008215041]
-description = "Über den Kauf unserer neuen Wanderer haben wir bereits ausführlich in unserem letzten Artikel berichtet. Heute möchten wir euch mitnehmen auf das Refi…"
-id = "18274617593008215041"
-timestamp = 1716595200
-title = "Unsere Wanderer: Refit in Südfrankreich | Wind Wanderer"
-url = "https://windwanderer.xyz/unsere-wanderer-refit-in-suedfrankreich/"
-
 [windwanderer.3050821438731736152]
 description = "Einige Wochen haben wir nichts von uns hören lassen und so haben wir seit unserem letzten Bericht aus Korsika doch so einige Erlebnisse sammeln dürfen…"
 id = "3050821438731736152"
 timestamp = 1725235200
 title = "Mediterrane Inselträume: Elba, Giglio und Korsika erleben | Wind Wanderer"
 url = "https://windwanderer.xyz/elba-giglio-und-korsika/"
+
+[windwanderer.8695060964929983831]
+description = "Im letzten Artikel haben wir von unserer Zeit auf Elba, Giglio und Korsika berichtet und wie wir es pünktlich nach Sardinien geschafft haben um unsere…"
+id = "8695060964929983831"
+timestamp = 1732147200
+title = "Sardinien und Ponza | Wind Wanderer"
+url = "https://windwanderer.xyz/sardinien-und-ponza/"
 
 [zweiammeer.3665569699366090000]
 description = "Diese Woche war in meiner Selbständigkeit einiges los. Denn ich hab meinen WordPress-Hafen gelauncht. Ich bin ja selbständig als Webdesignerin und hier"
