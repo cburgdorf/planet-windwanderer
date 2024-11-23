@@ -18,6 +18,7 @@ jobs:
       - name: Perform update
         run: |
           ./planet-windwanderer
+          ./update_search.sh
       - name: Install Zola
         uses: taiki-e/install-action@v2
         with:
@@ -31,6 +32,7 @@ jobs:
       - name: commit
         run: |
           git add templates/articles.html
+          git add templates/search.html
           git add planet.lock
           git commit -m "Add new articles"
           git push origin master
