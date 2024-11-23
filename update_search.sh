@@ -6,7 +6,7 @@ TOML_FILE="planet.toml"
 OUTPUT_FILE="./templates/search.html"
 
 # Start the HTML file without a newline
-echo -n '<div class="gcse-search" data-as_oq="' > "$OUTPUT_FILE"
+echo -n '<script async src="https://cse.google.com/cse.js?cx=6476aef88fae44805"></script><div class="gcse-search" data-as_oq="' > "$OUTPUT_FILE"
 
 # Extract all lines with 'sitemap' and retrieve the domain
 first=true
