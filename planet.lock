@@ -91,6 +91,27 @@ timestamp = 1707696000
 title = "Links — BLUE HORIZON"
 url = "https://www.bluehorizonsailing.de/links"
 
+[bluejoline.11536153192386710297]
+description = "29.09. - 04.10.2023"
+id = "11536153192386710297"
+timestamp = 1731283200
+title = "Mitten Im Atlantik: Madeidra - Eine Blumeninsel? |"
+url = "https://blue-joline.com/mitten-im-atlantik-madeidra-eine-blumeninsel/"
+
+[bluejoline.15273869589627897637]
+description = "29.09. - 04.10.2023"
+id = "15273869589627897637"
+timestamp = 1731715200
+title = "Madeira: Impressionen Von Funchal Und Santana |"
+url = "https://blue-joline.com/madeira-impressionen-von-funchal-und-santana/"
+
+[bluejoline.16861543184913573063]
+description = "29.09. - 04.10.2023"
+id = "16861543184913573063"
+timestamp = 1731888000
+title = "Korbschlittenfahrt Auf Madeira |"
+url = "https://blue-joline.com/korbschlittenfahrt-auf-madeira/"
+
 [elenaundben.13633096136568062374]
 description = "Leichter, veganer Berglinsensalat mit knackiger, frischer Roter Beete, Babyblattspinat und/oder Salat, Safran, Pinienkernen in einem Balsamicodressing. Perfekt für die warmen Sommertage."
 id = "13633096136568062374"
@@ -218,6 +239,48 @@ id = "8486904960258213127"
 timestamp = 1667779200
 title = "#4 Unser Boot… - Sailing Nakii Pu"
 url = "https://sailing-nakiipu.com/4-unser-boot/"
+
+[sailingseapearl.16244241432893608162]
+description = "Unerwarteterweise sind wir nach der windlosen Überfahrt von Vanuatu ja in Carins im Norden Australien angekommen anstatt direkt auf Thursday Island in der Torres Straße anzuhalten. Den dortigen Stopp haben wir genutzt, um das Boot wieder auf Vordermann zu bringen und einen Abstecher mit dem Flugzeug nach Sydney zu machen. Mit dem Ausflug nach Sydney"
+id = "16244241432893608162"
+timestamp = 1707609600
+title = "Durch das Great Barrier Riff und die Torres Straße - Sailing Sea Pearl"
+url = "https://sailingseapearl.de/blog/durch-das-great-barrier-riff-und-die-torres-strasse/"
+
+[sailingseapearl.2296870588325484757]
+description = "Mit dem Segelboot von Ost nach West durch Indonesien. Wir segeln entlang der beeindruckenden Inselwelt bis nach Lombok und Bali"
+id = "2296870588325484757"
+timestamp = 1715904000
+title = "Indonesien „von hinten“ Indonesien „von hinten“ - Sailing Sea Pearl"
+url = "https://sailingseapearl.de/blog/indonesien-von-hinten/"
+
+[sailingseapearl.4438175367799832917]
+description = "Angekommen auf Bali genießen wir das Neujahrsfest in Ubud. Anschließend stellen wir ein Leck im Getriebe fest und müssen zur Reparatur zurück nach Lombok segeln"
+id = "4438175367799832917"
+timestamp = 1723939200
+title = "Hoch und Tief auf Bali - Sailing Sea Pearl"
+url = "https://sailingseapearl.de/blog/hoch-und-tief-auf-bali/"
+
+[sybruty.10248685365429706287]
+description = "Wir müssen uns bei der Abfahrt immer nach der Strömung richten. Eher weniger nach Hoch- oder Niedrigwasser. Da die Häfen, die wir bis jetzt angelaufen sind immer tidenunabhängig sind. Das heißt es ist selbst bei Niedrigwasser immer mindestens 3 m Wasser im Hafen. 3 m ist für uns so ein Mindestwasserstand, den wir gerne hätten. […]"
+id = "10248685365429706287"
+timestamp = 1721520000
+title = "L'Aber Wrac'h - Flussidylle - SY-Bruty"
+url = "https://www.sy-bruty.de/laber-wrach-flussidylle/"
+
+[sybruty.13131839791965355430]
+description = "Etwas verspätet, aber nun kommt doch noch ein Statement zu Brest. In Brest gibt es zwei Marinas vom gleichen Betreiber. Die Marina du Château ist nahe der Stadt und wie der Name verrät, direkt an der Burg. Hier ist Jubel, Trubel, Heiterkeit und somit auch eine entsprechende Geräuschkulisse. Da wir schon wussten, dass wir länger […]"
+id = "13131839791965355430"
+timestamp = 1723507200
+title = "Brest - viel erlebt in Hafen, Stadt und Krankenhaus - SY-Bruty"
+url = "https://www.sy-bruty.de/brest-viel-erlebt-in-hafen-stadt-und-krankenhaus/"
+
+[sybruty.1507229557184611132]
+description = ""
+id = "1507229557184611132"
+timestamp = 1723507200
+title = "Blog - SY-Bruty"
+url = "https://www.sy-bruty.de/blog/"
 
 [syflora.17116957137581241303]
 description = "Der Schreck des wild schlackernden Mastes ist erstmal weggesteckt, ein Dichtungsset für den defekten Achterstagspanner liegt schon in Hamburg bereit (ganz lieben Dank an Uwe und Jan). Jetzt müssen …"
