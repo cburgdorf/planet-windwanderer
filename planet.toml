@@ -41,6 +41,10 @@ sailing_amelija = { title = "Sailing Amelija", sitemap="https://sailing-amelija.
 sailingmabul = { title ="Sailing Mabul", logo="https://i0.wp.com/www.sailingmabul.com/wp-content/uploads/2022/06/cropped-MabulLogo.png?fit=100%2C1024", sitemap = "https://www.sailingmabul.com/post-sitemap.xml", dateregex='''(\d{4}/\d{2}/\d{2})'''}
 milagros = { title = "milagros", logo="https://milagros.ch/wp-content/themes/simpleblog/images/logo.png", sitemap="https://milagros.ch/post-sitemap.xml"}
 belleamie = { title = "SY Belle Amie", logo="https://sy-belleamie.de/wp-content/uploads/2023/02/2023_02_10_logo_belleamie_on-95x100.png", sitemap="https://sy-belleamie.de/wp-sitemap-posts-post-1.xml"}
+bluejoline = { title = "Blue Joline", logo="", sitemap="https://blue-joline.com/post-sitemap1.xml"}
+sailingseapearl = { title = "Sailing Sea Pearl", logo="https://sailingseapearl.de/wp-content/uploads/2021/04/SailingSeapearl.png", sitemap="https://sailingseapearl.de/post-sitemap.xml"}
+sybruty = { title ="SY Bruty", sitemap="https://www.sy-bruty.de/post-sitemap.xml", logo="https://www.sy-bruty.de/wp-content/uploads/2020/03/cropped-Bruty-logo-retina-1-170x33.jpg"}
+
 
 
 

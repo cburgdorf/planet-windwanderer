@@ -17,7 +17,7 @@ jobs:
           submodules: 'true'
       - name: Perform update
         run: |
-          ./planet-windwanderer
+          ./erde
           ./update_search.sh
       - name: Install Zola
         uses: taiki-e/install-action@v2
