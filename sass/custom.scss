@@ -68,3 +68,39 @@
     background-repeat: no-repeat;
   }
 }
+
+
+// Search adjustments
+.gs-title, .gs-title b {
+  font-size: 2.5rem !important;
+  font-weight: 800 !important;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+  color: black !important;
+}
+
+.gsc-table-cell-snippet-close {
+  font-family: 'Lora', 'Times New Roman', serif !important;
+  font-size: 20px !important;
+}
+
+.gs-visibleUrl-breadcrumb {
+  color: #777 !important;
+  font-size: 16px !important;
+  font-family: 'Lora', 'Times New Roman', serif;
+}
+
+.gsc-control-cse {
+  padding: 0 !important;
+}
+
+.gcsc-more-maybe-branding-root {
+  display: none !important;
+}
+
+.gsc-cursor-box {
+  font-size: larger !important;
+}
+
+.gs-web-image-box {
+  margin-right: 5px !important;
+}
