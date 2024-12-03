@@ -97,13 +97,6 @@ timestamp = 1732752000
 title = "impressum — BLUE HORIZON"
 url = "https://www.bluehorizonsailing.de/impressum"
 
-[bluejoline.11536153192386710297]
-description = "29.09. - 04.10.2023"
-id = "11536153192386710297"
-timestamp = 1731283200
-title = "Mitten Im Atlantik: Madeidra - Eine Blumeninsel? |"
-url = "https://blue-joline.com/mitten-im-atlantik-madeidra-eine-blumeninsel/"
-
 [bluejoline.15273869589627897637]
 description = "29.09. - 04.10.2023"
 id = "15273869589627897637"
@@ -117,6 +110,13 @@ id = "16861543184913573063"
 timestamp = 1731888000
 title = "Korbschlittenfahrt Auf Madeira |"
 url = "https://blue-joline.com/korbschlittenfahrt-auf-madeira/"
+
+[bluejoline.2602386838048979473]
+description = "25.11.2024 - 28.11.2024"
+id = "2602386838048979473"
+timestamp = 1733184000
+title = "Karibik - Tagebuch - Band II - Nr. 1 |"
+url = "https://blue-joline.com/karibik-tagebuch-band-ii-nr-1/"
 
 [elenaundben.13633096136568062374]
 description = "Leichter, veganer Berglinsensalat mit knackiger, frischer Roter Beete, Babyblattspinat und/oder Salat, Safran, Pinienkernen in einem Balsamicodressing. Perfekt für die warmen Sommertage."
