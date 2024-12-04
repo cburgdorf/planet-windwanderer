@@ -49,26 +49,26 @@ timestamp = 1722297600
 title = "Menorca – Es Grau – Belle Amie"
 url = "https://sy-belleamie.de/blog/menorca-es-grau/"
 
-[blauwassersegeln.10467023233507193326]
-description = "Ablaufen vor Sturm gehört vermutlich zu den ältesten und gängigsten Sturmtaktiken von Yachten.  Auch bei schwerer Sturmsee bewegt sich dabei die Yacht noch"
-id = "10467023233507193326"
-timestamp = 1731024000
-title = "Sturmsegeln Spezial - Teil 20: Ablaufen vorm Wind"
-url = "https://blauwassersegeln.at/sturmsegeln-spezial-teil-20-ablaufen-vorm-wind/"
-
-[blauwassersegeln.1547354371975047186]
-description = "Im Sturm aktiv segeln. Du hast zwei Möglichkeiten: Am Wind und vorm Wind. Wir zeigen dir, warum auch das Segeln hoch gegen den Sturm sinnvoll sein kann."
-id = "1547354371975047186"
-timestamp = 1731024000
-title = "Sturmsegeln Spezial - Teil 19: Aktiv segeln im Sturm"
-url = "https://blauwassersegeln.at/sturmsegeln-spezial-teil-19-aktiv-segeln-im-sturm/"
-
 [blauwassersegeln.18022832819516054969]
 description = "Morgen Abend ist es soweit. Du bist herzlich eingeladen zu unserem kostenlosen online TO-Mikroseminar. Wir erzählen dir, wie die gemeinsame große Fahrt zur wu"
 id = "18022832819516054969"
 timestamp = 1733184000
 title = "kostenloses Online-Mikroseminar"
 url = "https://blauwassersegeln.at/kostenloses-online-mikroseminar/"
+
+[blauwassersegeln.3669108227646431166]
+description = "Die PDF zum Trans-Ozean-Mikro-Seminar! Die große blaue Zweisamkeit! Unsere Tipps für eure Reise als Paar über die Ozeane!"
+id = "3669108227646431166"
+timestamp = 1733270400
+title = "Partnerschaft auf See - Das kostenlose Mikroseminar bei TO"
+url = "https://blauwassersegeln.at/partnerschaft-an-bord/"
+
+[blauwassersegeln.6940537455712289749]
+description = "Es gibt kein Generalrezept, keine ultimative Strategie zum Abwettern von Stürmen. Wir zeigen dir, nach welchen Kriterien du eine passende Sturmtaktik auswählen kannst."
+id = "6940537455712289749"
+timestamp = 1731024000
+title = "Sturmsegeln spezial - Teil 18: Sturmtaktiken wählen"
+url = "https://blauwassersegeln.at/sturmsegeln-spezial-teil-18-sturmtaktiken-waehlen/"
 
 [bluehorizonsailing.1334339429087352928]
 description = ""
