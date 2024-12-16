@@ -44,6 +44,7 @@ belleamie = { title = "SY Belle Amie", logo="https://sy-belleamie.de/wp-content/
 bluejoline = { title = "Blue Joline", logo="", sitemap="https://blue-joline.com/post-sitemap1.xml"}
 sailingseapearl = { title = "Sailing Sea Pearl", logo="https://sailingseapearl.de/wp-content/uploads/2021/04/SailingSeapearl.png", sitemap="https://sailingseapearl.de/post-sitemap.xml"}
 sybruty = { title ="SY Bruty", sitemap="https://www.sy-bruty.de/post-sitemap.xml", logo="https://www.sy-bruty.de/wp-content/uploads/2020/03/cropped-Bruty-logo-retina-1-170x33.jpg"}
+joyfull_sailing = { title ="SY Joyfull", sitemap="https://www.joyfull-sailing.ch/blog-posts-sitemap.xml", cookie="wixLanguage=de", logo="https://static.wixstatic.com/media/5aa8d3_501696ef60f24027ab376afba9128f36~mv2.png"}
 
 
 
