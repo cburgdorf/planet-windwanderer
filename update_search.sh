@@ -12,7 +12,7 @@ echo -n '<script async src="https://cse.google.com/cse.js?cx=6476aef88fae44805">
 first=true
 grep 'sitemap' "$TOML_FILE" | while read -r line; do
     # Extract the domain from the sitemap URL (everything after "://", up to the first "/")
-    domain=$(echo "$line" | sed -E 's/.*sitemap\s*=\s*".*:\/\/([^\/]+).*/\1/')
+    domain=$(echo "$line" | sed -E 's/.*sitemap\s*=\s*"[a-zA-Z]+:\/\/([^\/]+)\/?.*/\1/')
 
     # Add "site:" before the domain
     site="site:$domain"
